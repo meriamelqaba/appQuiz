@@ -1,0 +1,1408 @@
+[
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel est le nom de la loi qui décrit la variation de la résistance d'un conducteur en fonction de sa température ?",
+    "correct_answer": "Loi d'Ohm",
+    "incorrect_answers": ["Loi de Joule", "Loi de Kirchhoff", "Loi de Lenz"],
+    "options": ["Loi d'Ohm", "Loi de Joule", "Loi de Kirchhoff", "Loi de Lenz"]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce qu'un transistor bipolaire ?",
+    "correct_answer": "Un composant electronique utilisé comme amplificateur ou comme interrupteur",
+    "incorrect_answers": [
+      "Un composant electronique utilisé comme batterie",
+      "Un composant electronique utilisé comme résistance variable",
+      "Un composant electronique utilisé comme diode"
+    ],
+    "options": [
+      "Un composant electronique utilisé comme amplificateur ou comme interrupteur",
+      "Un composant electronique utilisé comme batterie",
+      "Un composant electronique utilisé comme résistance variable",
+      "Un composant electronique utilisé comme diode"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce qu'une diode Zener ?",
+    "correct_answer": "Une diode conçue pour fonctionner en régime de claquage",
+    "incorrect_answers": [
+      "Une diode conçue pour fonctionner en régime d'amplification",
+      "Une diode conçue pour fonctionner en régime de blocage",
+      "Une diode conçue pour fonctionner en régime de redressement"
+    ],
+    "options": [
+      "Une diode conçue pour fonctionner en régime de claquage",
+      "Une diode conçue pour fonctionner en régime d'amplification",
+      "Une diode conçue pour fonctionner en régime de blocage",
+      "Une diode conçue pour fonctionner en régime de redressement"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce qu'un amplificateur opérationnel ?",
+    "correct_answer": "Un composant electronique utilisé comme amplificateur de signal",
+    "incorrect_answers": [
+      "Un composant electronique utilisé comme interrupteur electronique",
+      "Un composant electronique utilisé comme détecteur de champ magnétique",
+      "Un composant electronique utilisé comme régulateur de tension"
+    ],
+    "options": [
+      "Un composant electronique utilisé comme amplificateur de signal",
+      "Un composant electronique utilisé comme interrupteur electronique",
+      "Un composant electronique utilisé comme détecteur de champ magnétique",
+      "Un composant electronique utilisé comme régulateur de tension"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce que la diaphonie (ou crosstalk en anglais) dans un système electronique ?",
+    "correct_answer": "Le phénomène de propagation d'un signal d'un canal à un autre canal adjacent",
+    "incorrect_answers": [
+      "Le phénomène de dégradation d'un signal électrique lorsqu'il est transmis sur une longue distance",
+      "Le phénomène de distorsion harmonique d'un signal électrique",
+      "Le phénomène de réflexion d'un signal électrique à l'interface entre deux câbles"
+    ],
+    "options": [
+      "Le phénomène de propagation d'un signal d'un canal à un autre canal adjacent",
+      "Le phénomène de dégradation d'un signal électrique lorsqu'il est transmis sur une longue distance",
+      "Le phénomène de distorsion harmonique d'un signal électrique",
+      "Le phénomène de réflexion d'un signal électrique à l'interface entre deux câbles"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce que l'effet Joule?",
+    "correct_answer": "La conversion de l'énergie électrique en chaleur",
+    "incorrect_answers": [
+      "La création d'un champ magnétique autour d'un conducteur",
+      "La génération de courant électrique par induction",
+      "La détection de la lumière par un photorécepteur"
+    ],
+    "options": [
+      "La conversion de l'énergie électrique en chaleur",
+      "La création d'un champ magnétique autour d'un conducteur",
+      "La génération de courant électrique par induction",
+      "La détection de la lumière par un photorécepteur"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce qu'un amplificateur de classe D?",
+    "correct_answer": "Un amplificateur de puissance qui utilise une modulation de largeur d'impulsion (PWM)",
+    "incorrect_answers": [
+      "Un amplificateur de puissance qui utilise une modulation de fréquence (FM)",
+      "Un amplificateur de puissance qui utilise une modulation d'amplitude (AM)",
+      "Un amplificateur de puissance qui utilise une modulation de phase"
+    ],
+    "options": [
+      "Un amplificateur de puissance qui utilise une modulation de largeur d'impulsion (PWM)",
+      "Un amplificateur de puissance qui utilise une modulation de fréquence (FM)",
+      "Un amplificateur de puissance qui utilise une modulation d'amplitude (AM)",
+      "Un amplificateur de puissance qui utilise une modulation de phase"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel est le nom donné à un transistor qui est utilisé comme interrupteur ?",
+    "correct_answer": "Transistor bipolaire",
+    "incorrect_answers": [
+      "Transistor à effet de champ",
+      "Transistor Darlington",
+      "Transistor Schottky"
+    ],
+    "options": [
+      "Transistor bipolaire",
+      "Transistor à effet de champ",
+      "Transistor Darlington",
+      "Transistor Schottky"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est la formule qui permet de calculer la valeur de la résistance dans un circuit série ?",
+    "correct_answer": "R = V/I",
+    "incorrect_answers": ["R = I/V", "R = P/I^2", "R = P/V^2"],
+    "options": ["R = V/I", "R = I/V", "R = P/I^2", "R = P/V^2"]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel est le nom de la méthode de modulation qui utilise une combinaison de modulation d'amplitude et de modulation de fréquence ?",
+    "correct_answer": "Modulation d'amplitude en quadrature",
+    "incorrect_answers": [
+      "Modulation de fréquence en quadrature",
+      "Modulation d'amplitude de phase",
+      "Modulation de fréquence de phase"
+    ],
+    "options": [
+      "Modulation d'amplitude en quadrature",
+      "Modulation de fréquence en quadrature",
+      "Modulation d'amplitude de phase",
+      "Modulation de fréquence de phase"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est la fonction d'un convertisseur analogique-numérique (CAN) ?",
+    "correct_answer": "Convertir un signal analogique en signal numérique",
+    "incorrect_answers": [
+      "Convertir un signal numérique en signal analogique",
+      "Convertir une fréquence en tension",
+      "Convertir une tension en fréquence"
+    ],
+    "options": [
+      "Convertir un signal analogique en signal numérique",
+      "Convertir un signal numérique en signal analogique",
+      "Convertir une fréquence en tension",
+      "Convertir une tension en fréquence"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est la formule qui permet de calculer la valeur de la capacité dans un circuit série ?",
+    "correct_answer": "1/C = 1/C1 + 1/C2 + ... + 1/Cn",
+    "incorrect_answers": ["C = C1 + C2 + ... + Cn", "C = Q/V", "C = I*t/V"],
+    "options": [
+      "C = C1 + C2 + ... + Cn",
+      "C = Q/V",
+      "1/C = 1/C1 + 1/C2 + ... + 1/Cn",
+      "C = I*t/V"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel est le nom de l'effet par lequel une impulsion électrique est réfléchie en sens inverse par un câble ou une ligne de transmission ?",
+    "correct_answer": "Effet de réflexion",
+    "incorrect_answers": [
+      "Effet de réfraction",
+      "Effet Doppler",
+      "Effet Joule"
+    ],
+    "options": [
+      "Effet de réflexion",
+      "Effet de réfraction",
+      "Effet Doppler",
+      "Effet Joule"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est la fonction d'un amplificateur de classe D ?",
+    "correct_answer": "Amplifier un signal en utilisant une modulation de largeur d'impulsion",
+    "incorrect_answers": [
+      "Amplifier un signal en utilisant une modulation de fréquence",
+      "Amplifier un signal en utilisant une modulation d'amplitude",
+      "Amplifier un signal en utilisant une modulation de phase"
+    ],
+    "options": [
+      "Amplifier un signal en utilisant une modulation de largeur d'impulsion",
+      "Amplifier un signal en utilisant une modulation de fréquence",
+      "Amplifier un signal en utilisant une modulation d'amplitude",
+      "Amplifier un signal en utilisant une modulation de phase"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est la caractéristique d'une diode Schottky ?",
+    "correct_answer": "Faible tension de seuil directe",
+    "incorrect_answers": [
+      "Haute tension de seuil directe",
+      "Faible courant de fuite inverse",
+      "Haute courant de fuite inverse"
+    ],
+    "options": [
+      "Faible tension de seuil directe",
+      "Haute tension de seuil directe",
+      "Faible courant de fuite inverse",
+      "Haute courant de fuite inverse"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel est le terme utilisé pour décrire le signal de rétroaction indésirable qui est renvoyé à l'entrée d'un amplificateur ?",
+    "correct_answer": "Oscillation",
+    "incorrect_answers": ["Distorsion", "Harmoniques", "Intermodulation"],
+    "options": ["Oscillation", "Distorsion", "Harmoniques", "Intermodulation"]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel type de diode est couramment utilisé dans les circuits régulateurs de tension ?",
+    "correct_answer": "Zener",
+    "incorrect_answers": ["Schottky", "Varactor", "Tunnel"],
+    "options": ["Zener", "Schottky", "Varactor", "Tunnel"]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est la fonction d'un circuit de conversion numérique-analogique (CNA) ?",
+    "correct_answer": "Convertir un signal numérique en un signal analogique",
+    "incorrect_answers": [
+      "Convertir un signal analogique en un signal numérique",
+      "Mesurer la tension d'un signal",
+      "Amplifier un signal"
+    ],
+    "options": [
+      "Convertir un signal numérique en un signal analogique",
+      "Convertir un signal analogique en un signal numérique",
+      "Mesurer la tension d'un signal",
+      "Amplifier un signal"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quelle est l'unité de mesure de la fréquence d'un signal électrique ?",
+    "correct_answer": "Hertz",
+    "incorrect_answers": ["Watt", "Volt", "Ampère"],
+    "options": ["Hertz", "Watt", "Volt", "Ampère"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce que la quantification en electronique numérique ?",
+    "correct_answer": "Le processus de conversion d'un signal analogique en un signal numérique en discrétisant la valeur de l'amplitude",
+    "incorrect_answers": [
+      "Le processus de correction des erreurs de transmission d'un signal numérique",
+      "Le processus de compression des données numériques pour réduire leur taille",
+      "Le processus de démodulation d'un signal numérique"
+    ],
+    "options": [
+      "Le processus de conversion d'un signal analogique en un signal numérique en discrétisant la valeur de l'amplitude",
+      "Le processus de correction des erreurs de transmission d'un signal numérique",
+      "Le processus de compression des données numériques pour réduire leur taille",
+      "Le processus de démodulation d'un signal numérique"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce que le courant alternatif (AC) ?",
+    "correct_answer": "Un courant électrique qui change de direction périodiquement",
+    "incorrect_answers": [
+      "Un courant électrique qui coule dans une seule direction",
+      "Un courant électrique qui a une tension constante",
+      "Un courant électrique qui est stocké dans une batterie"
+    ],
+    "options": [
+      "Un courant électrique qui change de direction périodiquement",
+      "Un courant électrique qui coule dans une seule direction",
+      "Un courant électrique qui a une tension constante",
+      "Un courant électrique qui est stocké dans une batterie"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce qu'un transistor ?",
+    "correct_answer": "Un composant electronique utilisé pour amplifier ou commuter des signaux électriques",
+    "incorrect_answers": [
+      "Un câble qui transporte des signaux électriques",
+      "Un dispositif de stockage de données",
+      "Un capteur de température"
+    ],
+    "options": [
+      "Un composant electronique utilisé pour amplifier ou commuter des signaux électriques",
+      "Un câble qui transporte des signaux électriques",
+      "Un dispositif de stockage de données",
+      "Un capteur de température"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce que le temps de montée (rise time) d'un signal électrique ?",
+    "correct_answer": "Le temps nécessaire pour que le signal passe de 10 % à 90 % de sa valeur maximale",
+    "incorrect_answers": [
+      "Le temps nécessaire pour que le signal passe de 0 % à 100 % de sa valeur maximale",
+      "Le temps nécessaire pour que le signal atteigne sa valeur maximale",
+      "Le temps nécessaire pour que le signal redescende à 50 % de sa valeur maximale"
+    ],
+    "options": [
+      "Le temps nécessaire pour que le signal passe de 10 % à 90 % de sa valeur maximale",
+      "Le temps nécessaire pour que le signal passe de 0 % à 100 % de sa valeur maximale",
+      "Le temps nécessaire pour que le signal atteigne sa valeur maximale",
+      "Le temps nécessaire pour que le signal redescende à 50 % de sa valeur maximale"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce qu'un amplificateur opérationnel (op-amp) ?",
+    "correct_answer": "Un composant electronique utilisé pour amplifier des signaux électriques",
+    "incorrect_answers": [
+      "Un composant electronique utilisé pour convertir des signaux analogiques en signaux numériques",
+      "Un capteur de lumière",
+      "Un dispositif de stockage de données"
+    ],
+    "options": [
+      "Un composant electronique utilisé pour amplifier des signaux électriques",
+      "Un composant electronique utilisé pour convertir des signaux analogiques en signaux numériques",
+      "Un capteur de lumière",
+      "Un dispositif de stockage de données"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quel est le nom de l'élément chimique utilisé comme semi-conducteur dans les circuits electroniques ?",
+    "correct_answer": "Silicium",
+    "incorrect_answers": ["Cuivre", "Fer", "Carbone"],
+    "options": ["Silicium", "Cuivre", "Fer", "Carbone"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quelle est la principale différence entre un transistor NPN et un transistor PNP ?",
+    "correct_answer": "Le sens de polarisation des jonctions",
+    "incorrect_answers": [
+      "Leur tension de seuil",
+      "Leur dimension",
+      "Leur mode de fonctionnement"
+    ],
+    "options": [
+      "Le sens de polarisation des jonctions",
+      "Leur tension de seuil",
+      "Leur dimension",
+      "Leur mode de fonctionnement"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quel est le composant electronique qui permet de stocker des charges électriques ?",
+    "correct_answer": "Le condensateur",
+    "incorrect_answers": ["La résistance", "La diode", "Le transistor"],
+    "options": ["Le condensateur", "La résistance", "La diode", "Le transistor"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quel est le nom du phénomène qui se produit lorsque le courant électrique passe à travers un matériau et qu'il y a une résistance à son passage ?",
+    "correct_answer": "La chaleur",
+    "incorrect_answers": ["La lumière", "Le son", "Le magnétisme"],
+    "options": ["La chaleur", "La lumière", "Le son", "Le magnétisme"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quel est le nom de l'opération qui permet de combiner plusieurs signaux électriques en un seul signal ?",
+    "correct_answer": "La sommation",
+    "incorrect_answers": [
+      "La multiplication",
+      "La division",
+      "La différenciation"
+    ],
+    "options": [
+      "La sommation",
+      "La multiplication",
+      "La division",
+      "La différenciation"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quel est le nom du dispositif electronique qui permet de convertir une tension continue en une tension alternative ?",
+    "correct_answer": "L'onduleur",
+    "incorrect_answers": [
+      "Le redresseur",
+      "Le régulateur",
+      "Le transformateur"
+    ],
+    "options": [
+      "L'onduleur",
+      "Le redresseur",
+      "Le régulateur",
+      "Le transformateur"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce qu'un circuit intégré?",
+    "correct_answer": "Un dispositif electronique qui contient plusieurs composants electroniques sur une seule puce de silicium",
+    "incorrect_answers": [
+      "Un dispositif electronique qui contient des transistors individuels reliés par des fils",
+      "Un dispositif electronique qui contient plusieurs composants electroniques montés sur une plaque de circuit imprimé",
+      "Un dispositif electronique qui contient un seul composant electronique"
+    ],
+    "options": [
+      "Un dispositif electronique qui contient plusieurs composants electroniques sur une seule puce de silicium",
+      "Un dispositif electronique qui contient des transistors individuels reliés par des fils",
+      "Un dispositif electronique qui contient plusieurs composants electroniques montés sur une plaque de circuit imprimé",
+      "Un dispositif electronique qui contient un seul composant electronique"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce que la tension électrique?",
+    "correct_answer": "La différence de potentiel électrique entre deux points dans un circuit électrique",
+    "incorrect_answers": [
+      "La quantité de courant électrique qui circule dans un circuit électrique",
+      "La résistance électrique d'un circuit électrique",
+      "L'énergie électrique stockée dans un circuit électrique"
+    ],
+    "options": [
+      "La différence de potentiel électrique entre deux points dans un circuit électrique",
+      "La quantité de courant électrique qui circule dans un circuit électrique",
+      "La résistance électrique d'un circuit électrique",
+      "L'énergie électrique stockée dans un circuit électrique"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Qu'est-ce que la diode?",
+    "correct_answer": "Un composant electronique qui permet le passage du courant électrique dans un seul sens",
+    "incorrect_answers": [
+      "Un composant electronique qui permet le passage du courant électrique dans les deux sens",
+      "Un composant electronique qui mesure la tension électrique",
+      "Un composant electronique qui stocke l'énergie électrique"
+    ],
+    "options": [
+      "Un composant electronique qui permet le passage du courant électrique dans un seul sens",
+      "Un composant electronique qui permet le passage du courant électrique dans les deux sens",
+      "Un composant electronique qui mesure la tension électrique",
+      "Un composant electronique qui stocke l'énergie électrique"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "question": "Quel est le nom du composant electronique qui permet de stocker de l'énergie électrique sous forme de champ électrique ?",
+    "correct_answer": "Condensateur",
+    "incorrect_answers": ["Résistance", "Transistor", "Diode"],
+    "options": ["Condensateur", "Résistance", "Transistor", "Diode"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "question": "Quel est le nom du phénomène électromagnétique qui permet de produire une force électromotrice dans une bobine en mouvement dans un champ magnétique ?",
+    "correct_answer": "Induction électromagnétique",
+    "incorrect_answers": ["Effet photoélectrique", "Effet Joule", "Effet Hall"],
+    "options": [
+      "Induction électromagnétique",
+      "Effet photoélectrique",
+      "Effet Joule",
+      "Effet Hall"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "question": "Quel est le nom de l'opération electronique qui permet d'amplifier un signal électrique ?",
+    "correct_answer": "Amplification",
+    "incorrect_answers": ["Modulation", "Démultiplexage", "Numérisation"],
+    "options": ["Amplification", "Modulation", "Démultiplexage", "Numérisation"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "question": "Quel est le nom du composant electronique qui permet de réguler une tension électrique ?",
+    "correct_answer": "Régulateur de tension",
+    "incorrect_answers": ["Transistor", "Condensateur", "Résistance"],
+    "options": [
+      "Régulateur de tension",
+      "Transistor",
+      "Condensateur",
+      "Résistance"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "question": "Quel est le nom de l'opération electronique qui permet de convertir un signal analogique en signal numérique ?",
+    "correct_answer": "Conversion analogique-numérique",
+    "incorrect_answers": [
+      "Conversion numérique-analogique",
+      "Amplification",
+      "Modulation"
+    ],
+    "options": [
+      "Conversion analogique-numérique",
+      "Conversion numérique-analogique",
+      "Amplification",
+      "Modulation"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quel est le composant electronique qui permet de stocker une petite quantité d'énergie électrique et de la restituer ensuite ?",
+    "correct_answer": "Le condensateur",
+    "incorrect_answers": ["La diode", "Le transistor", "Le circuit intégré"],
+    "options": [
+      "Le condensateur",
+      "La diode",
+      "Le transistor",
+      "Le circuit intégré"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Midium",
+    "question": "Quelle est l'unité de mesure de la capacité d'un condensateur ?",
+    "correct_answer": "Le farad",
+    "incorrect_answers": ["Le watt", "Le volt", "L'ohm"],
+    "options": ["Le farad", "Le watt", "Le volt", "L'ohm"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le composant electronique qui permet de bloquer le passage du courant électrique dans un seul sens ?",
+    "correct_answer": "La diode",
+    "incorrect_answers": [
+      "Le transistor",
+      "Le condensateur",
+      "Le circuit intégré"
+    ],
+    "options": [
+      "La diode",
+      "Le transistor",
+      "Le condensateur",
+      "Le circuit intégré"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+    "correct_answer": "L'ohm",
+    "incorrect_answers": ["Le watt", "Le volt", "Le farad"],
+    "options": ["L'ohm", "Le watt", "Le volt", "Le farad"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de l'élément chimique utilisé comme conducteur dans les composants electroniques ?",
+    "correct_answer": "Le cuivre",
+    "incorrect_answers": ["Le silicium", "Le carbone", "L'or"],
+    "options": ["Le cuivre", "Le silicium", "Le carbone", "L'or"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de stocker une petite quantité d'énergie électrique et de la restituer ensuite ?",
+    "correct_answer": "Le condensateur",
+    "incorrect_answers": ["Le générateur", "Le capteur", "Le détecteur"],
+    "options": [
+      "Le condensateur",
+      "Le générateur",
+      "Le capteur",
+      "Le détecteur"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de l'élément chimique utilisé comme semi-conducteur dans les composants electroniques ?",
+    "correct_answer": "Le silicium",
+    "incorrect_answers": ["Le carbone", "L'or", "Le cuivre"],
+    "options": ["Le silicium", "Le carbone", "L'or", "Le cuivre"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de réguler la tension électrique ?",
+    "correct_answer": "Le régulateur",
+    "incorrect_answers": [
+      "Le transformateur",
+      "Le convertisseur",
+      "Le redresseur"
+    ],
+    "options": [
+      "Le régulateur",
+      "Le transformateur",
+      "Le convertisseur",
+      "Le redresseur"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le composant electronique qui permet de réguler la tension électrique ?",
+    "correct_answer": "Le régulateur de tension",
+    "incorrect_answers": ["Le transistor", "Le condensateur", "La résistance"],
+    "options": [
+      "Le régulateur de tension",
+      "Le transistor",
+      "Le condensateur",
+      "La résistance"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+    "correct_answer": "L'ohm",
+    "incorrect_answers": ["Le volt", "Le watt", "Le farad"],
+    "options": ["L'ohm", "Le volt", "Le watt", "Le farad"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de l'élément chimique utilisé comme conducteur électrique dans les circuits electroniques ?",
+    "correct_answer": "Le cuivre",
+    "incorrect_answers": ["Le fer", "Le zinc", "L'aluminium"],
+    "options": ["Le cuivre", "Le fer", "Le zinc", "L'aluminium"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de stocker une petite quantité d'énergie électrique et de la restituer ensuite ?",
+    "correct_answer": "Le condensateur",
+    "incorrect_answers": ["La diode", "Le transistor", "Le circuit intégré"],
+    "options": [
+      "Le condensateur",
+      "La diode",
+      "Le transistor",
+      "Le circuit intégré"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de convertir le courant continu en courant alternatif ?",
+    "correct_answer": "L'onduleur",
+    "incorrect_answers": [
+      "Le régulateur de tension",
+      "Le redresseur",
+      "Le transformateur"
+    ],
+    "options": [
+      "L'onduleur",
+      "Le régulateur de tension",
+      "Le redresseur",
+      "Le transformateur"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de l'élément chimique dont le symbole est Pb ?",
+    "correct_answer": "Le plomb",
+    "incorrect_answers": ["Le fer", "Le cuivre", "Le zinc"],
+    "options": ["Le plomb", "Le fer", "Le cuivre", "Le zinc"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de l'élément chimique utilisé comme conducteur électrique dans les fils électriques ?",
+    "correct_answer": "Le cuivre",
+    "incorrect_answers": ["Le fer", "Le zinc", "Le plomb"],
+    "options": ["Le cuivre", "Le fer", "Le zinc", "Le plomb"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de faire passer le courant électrique dans un seul sens ?",
+    "correct_answer": "La diode",
+    "incorrect_answers": ["Le transistor", "Le condensateur", "La résistance"],
+    "options": ["La diode", "Le transistor", "Le condensateur", "La résistance"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+    "correct_answer": "L'ohm",
+    "incorrect_answers": ["Le volt", "Le farad", "Le watt"],
+    "options": ["L'ohm", "Le volt", "Le farad", "Le watt"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom du composant electronique qui permet de stocker des données numériques ?",
+    "correct_answer": "La mémoire",
+    "incorrect_answers": ["Le processeur", "Le capteur", "Le détecteur"],
+    "options": ["La mémoire", "Le processeur", "Le capteur", "Le détecteur"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de l'élément chimique utilisé comme semi-conducteur dans les diodes ?",
+    "correct_answer": "Le silicium",
+    "incorrect_answers": ["Le carbone", "L'or", "Le cuivre"],
+    "options": ["Le silicium", "Le carbone", "L'or", "Le cuivre"]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de réguler la tension électrique ?",
+    "correct_answer": "Le régulateur",
+    "incorrect_answers": [
+      "Le transformateur",
+      "Le pont de diodes",
+      "Le générateur"
+    ],
+    "options": [
+      "Le régulateur",
+      "Le transformateur",
+      "Le pont de diodes",
+      "Le générateur"
+    ]
+  },
+
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Comment appelle-t-on le composant electronique qui permet de réguler la tension électrique ?",
+    "correct_answer": "Le régulateur",
+    "incorrect_answers": [
+      "Le amplificateur",
+      "Le générateur",
+      "Le transformateur"
+    ],
+    "options": [
+      "Le régulateur",
+      "Le amplificateur",
+      "Le générateur",
+      "Le transformateur"
+    ]
+  },
+  {
+    "category": "electronique",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "question": "Quel est le nom de la technologie qui permet de transmettre des données sans fil ?",
+    "correct_answer": "Le Wi-Fi",
+    "incorrect_answers": ["Le Bluetooth", "Le NFC", "Le GSM"],
+    "options": ["Le Wi-Fi", "Le Bluetooth", "Le NFC", "Le GSM"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Un circuit intégré (CI) est un composant electronique qui contient plusieurs transistors, résistances et condensateurs intégrés sur une seule puce de silicium.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Un amplificateur opérationnel (AOP) est un composant electronique qui peut amplifier des signaux électriques.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Un filtre passe-bas est un circuit electronique qui laisse passer les fréquences basses et élimine les fréquences hautes.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Un redresseur est un circuit electronique qui transforme un signal alternatif en signal continu.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le transistor est un composant electronique qui peut être utilisé comme amplificateur ou comme interrupteur.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Les diodes sont des composants electroniques qui ne permettent le passage du courant électrique que dans un seul sens.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode Zener est une diode spéciale qui permet de maintenir une tension constante dans un circuit.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Les diodes LED sont des diodes qui émettent de la lumière lorsqu'elles sont traversées par un courant électrique.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La diode laser est une diode qui émet de la lumière laser.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Un filtre passe-bas laisse passer les fréquences en dessous de sa fréquence de coupure.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Un filtre passe-bande laisse passer les fréquences entre sa fréquence de coupure haute et sa fréquence de coupure basse.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Un filtre actif est un filtre qui utilise des composants passifs comme les résistances et les condensateurs.",
+    "correct_answer": "Faux",
+    "incorrect_answers": ["Vrai"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode Zener est une diode qui permet le passage de courant dans les deux sens.",
+    "correct_answer": "Faux",
+    "incorrect_answers": ["Vrai"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "La diode Zener est généralement utilisée en mode inverse.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La diode Zener est généralement utilisée en mode inverse.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode Zener peut être utilisée comme régulateur de tension.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "La tension de claquage d'une diode Zener est constante quel que soit le courant qui la traverse.",
+    "correct_answer": "Faux",
+    "incorrect_answers": ["Vrai"],
+    "options": ["True", "False"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La diode Zener est une diode spéciale qui permet de conduire le courant dans les deux sens.",
+    "correct_answer": "Faux",
+    "incorrect_answers": ["Vrai"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode Zener fonctionne en inverse de la diode classique, c'est-à-dire qu'elle laisse passer le courant lorsque la tension est inférieure à sa tension de seuil.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "La tension de seuil d'une diode Zener est généralement inférieure à 5 volts.",
+    "correct_answer": "Faux",
+    "incorrect_answers": ["Vrai"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La diode Zener est principalement utilisée pour réguler la tension dans les circuits electroniques.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode Zener est capable de stabiliser la tension dans une plage donnée, même si la tension d'entrée varie.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "La tension de seuil d'une diode Zener est toujours constante quelle que soit la température ambiante.",
+    "correct_answer": "Faux",
+    "incorrect_answers": ["Vrai"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La diode Zener est souvent utilisée comme protection contre les surtensions dans les circuits electroniques.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode Zener est généralement utilisée en série avec une résistance dans les circuits electroniques pour réguler la tension.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "La tension de seuil d'une diode Zener peut être ajustée en modifiant sa concentration dopante.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": ["Faux"],
+    "options": ["True", "False"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le courant électrique circule dans un circuit fermé",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Les résistances sont des composants electroniques qui stockent l'électricité",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Les diodes permettent de laisser passer le courant électrique dans un seul sens",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Les transistors sont des composants electroniques qui amplifient le courant électrique",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Les condensateurs permettent de stocker de l'électricité",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Les inductances sont des composants electroniques qui stockent l'électricité",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La tension électrique est mesurée en volts (V)",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "L'intensité électrique est mesurée en ohms (Ω)",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "La résistance électrique est mesurée en ohms (Ω)",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La loi d'Ohm établit que la tensionest proportionnelle à l'intensité et à la résistance",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Un circuit électrique en série est un circuit dans lequel les composants sont connectés les uns à la suite des autres",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Un circuit électrique en parallèle est un circuit dans lequel les composants sont connectés les uns en parallèle avec les autres",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La résistance totale d'un circuit en série est égale à la somme des résistances individuelles",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La résistance totale d'un circuit en parallèle est égale à la somme des inverses des résistances individuelles",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Un amplificateur opérationnel est un composant electronique qui amplifie une tension électrique",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le bit est l'unité de mesure de la quantité de données qu'un ordinateur peut stocker",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Le microcontrôleur est un composant electronique qui permet de contrôler le fonctionnement d'un système",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le convertisseur analogique-numérique (CAN) est un composant electronique qui convertit une tension analogique en une valeur numérique",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le convertisseur numérique-analogique (CNA) estun composant electronique qui convertit une valeur numérique en une tension analogique",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La diode est un composant electronique qui permet le passage du courant électrique dans un seul sens",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le théorème de Thévenin permet de remplacer un circuit linéaire par une source de tension équivalente et une résistance interne équivalente.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le théorème de Thévenin est applicable uniquement pour des circuits électriques contenant des sources de tension et des résistances.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Le théorème de Thévenin peut être utilisé pour calculer la résistance équivalente d'un circuit.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le théorème de Thévenin est utilisé pour simplifier la résolution de circuits complexes.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le théorème de Norton est une alternative au théorème de Thévenin.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Le théorème de Norton permet de remplacer un circuit électrique par une source de tension équivalente et une résistance en série équivalente.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le courant de court-circuit dans le circuit d'origine est égal au courant délivré par la source de courant équivalente dans le théorème de Norton.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "La résistance équivalente dans le théorème de Norton est la même que la résistance équivalente dans le théorème de Thévenin.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "La source de courant équivalente dans le théorème de Norton est égale à la tension en circuit ouvert divisée par la résistance équivalente.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le théorème de Norton ne peut être appliqué que sur des circuits électriques linéaires.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le théorème de Norton et le théorème de Thévenin sont équivalents.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "Le théorème de Norton est une alternative au théorème de Thévenin.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "Le théorème de Norton permet de remplacer un circuit électrique par une source de tension équivalente et une résistance en série équivalente.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  },
+  {
+    "category": "electronique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "Le courant de court-circuit dans le circuit d'origine est égal au courant délivré par la source de courant équivalente dans le théorème de Norton.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"],
+    "options": ["True", "False"]
+  }
+]

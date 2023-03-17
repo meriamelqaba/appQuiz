@@ -1,0 +1,1985 @@
+[
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce que signifie l'acronyme URL ?",
+        "correct_answer": "Unified Resource Locator",
+        "incorrect_answers": [
+            "Uniform Resource Locator",
+            "Universal Resource Library",
+            "Unique Resource Link"
+        ],
+        "options": [
+            "Unified Resource Locator;",
+            "Universal Resource Library",
+            "Unique Resource Link",
+            "Uniform Resource Locato"
+        ]
+    },
+
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Qu'est-ce que l'architecture ARM",
+        "correct_answer": "Une architecture de processeur largement utilisée dans les supercalculateurs",
+        "incorrect_answers": [
+            "Une architecture de processeur largement utilisée dans les ordinateurs de bureau;",
+            "Une architecture de processeur largement utilisée dans les serveurs",
+            "Une architecture de processeur largement utilisée dans les smartphones et les tablettes"
+        ],
+        "options": [
+            "Une architecture de processeur largement utilisée dans les ordinateurs de bureau;",
+            "Une architecture de processeur largement utilisée dans les serveurs",
+            "Une architecture de processeur largement utilisée dans les smartphones et les tablettes",
+            " Une architecture de processeur largement utilisée dans les supercalculateurs"
+        ]
+    },
+
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Un algorithme qui transforme une donnée en une chaîne de caractères de longueur fixe.",
+        "correct_answer": " Une méthode pour ajuster une courbe à un ensemble de données",
+        "incorrect_answers": [
+            "Une méthode pour résoudre des équations linéaires ;",
+            "Une méthode pour résoudre des équations non linéaires",
+            "Une méthode pour déterminer la variance d'une distribution de données"
+        ],
+        "options": [
+            
+            "Une méthode pour résoudre des équations linéaires ;",
+            "Une méthode pour résoudre des équations non linéaires",
+            "Une méthode pour ajuster une courbe à un ensemble de données",
+            "Une méthode pour déterminer la variance d'une distribution de données"
+        ]
+    },
+    
+
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Qu'est-ce que le cryptage de bout en bout ?",
+        "correct_answer": " Un algorithme de cryptage utilisé pour protéger les données lors de leur transmission de l'émetteur au destinataire",
+        "incorrect_answers": [
+             "Un algorithme de cryptage utilisé pour protéger les données en transit;",
+            " Un algorithme de cryptage utilisé pour protéger les données stockées",
+             "Un algorithme de cryptage utilisé pour protéger les données stockées dans le cloud"
+        ],
+        "options": [
+            "Un algorithme de cryptage utilisé pour protéger les données en transit;",
+             " Un algorithme de cryptage utilisé pour protéger les données stockées",
+             " Un algorithme de cryptage utilisé pour protéger les données lors de leur transmission de l'émetteur au destinataire",
+              "Un algorithme de cryptage utilisé pour protéger les données stockées dans le cloud"
+        ]
+    },
+    
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Qu'est-ce que HTML signifie en Informatique?",
+        "correct_answer": "Hyper Text Markup Language",
+        "incorrect_answers": [
+          "Hyperlinks and Text Markup Language",
+          "Home Tool Markup Language",
+          "Hyperloop and Text Markup Language"
+        ],
+        "options": [
+          "Hyperlinks and Text Markup Language",
+          "Home Tool Markup Language",
+          "Hyper Text Markup Language",
+          "Hyperloop and Text Markup Language"
+        ]
+
+      },
+      
+
+
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": " Lequel de ces formats de fichier n'est pas un format   ",
+        "correct_answer": "BMP",
+        "incorrect_answers": [
+            "GIF",
+            " PNG ",
+            "ODT "
+        ],
+        "options": [
+            "GIF",
+            " PNG ",
+            "ODT ",
+            " BMP "
+        ]
+    },
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Qu'est-ce que la méthode Agile en développement de logiciels ?",
+        "correct_answer": "c) Une approche itérative et collaborative pour le développement de logiciels",
+        "incorrect_answers": [
+          "a) Une méthode pour tester les logiciels avant leur déploiement",
+          "b) Une approche linéaire pour le développement de logiciels",
+          "d) Une méthode pour gérer les projets Informatiques"
+        ],
+        "options": [
+          "a) Une méthode pour tester les logiciels avant leur déploiement",
+          "b) Une approche linéaire pour le développement de logiciels",
+          "c) Une approche itérative et collaborative pour le développement de logiciels",
+          "d) Une méthode pour gérer les projets Informatiques"
+        ]
+      },
+
+    
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Le port 23 est celui réservé pour quel service ?",
+        "correct_answer": "b) Telnet",
+        "incorrect_answers": [
+          "a) HTTP",
+          "c) FTP",
+          "d) Rlogin"
+        ],
+        "options": [
+          "a) HTTP",
+          "b) Telnet",
+          "c) FTP",
+          "d) Rlogin"
+        ]
+      },
+      
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "En hexadécimal, la valeur 80 correspond à quelle décimale ?",
+        "correct_answer": "a) 128",
+        "incorrect_answers": [
+          "b) 64",
+          "c) 80",
+          "d) 157"
+        ],
+        "options": [
+          "a) 128",
+          "b) 64",
+          "c) 80",
+          "d) 157"
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Le flooding est :",
+        "correct_answer": "a) une attaque qui sature le réseau",
+        "incorrect_answers": [
+          "b) une mise en place d'un sniffeur",
+          "c) une usurpation d'adresse IP interne venant de l'extérieur",
+          "d) une faille de sécurité du sendmail"
+        ],
+        "options": [
+          "a) une attaque qui sature le réseau",
+          "b) une mise en place d'un sniffeur",
+          "c) une usurpation d'adresse IP interne venant de l'extérieur",
+          "d) une faille de sécurité du sendmail"
+        ]
+      },
+      
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Lequel de ces fichiers n'est pas un format de fichier texte ?",
+        "correct_answer": "ISO",
+        "incorrect_answers": [
+        "DOC",
+        "RTF",
+        "ODT"
+        ],
+        "options": [
+        "DOC",
+        "RTF",
+        "ISO",
+        "ODT"
+        ]
+        },
+        {
+            "category": "Informatique",
+            "type": "Choix unique",
+            "difficulty": "Easy",
+            "question":"Dans une BDD, une clé primaire sert à",
+            "correct_answer":"Identifier les informations pour pouvoir les retrouver",
+            "incorrect_answers": [
+                "Enregistrer une base de données",
+                "L'autre mot pour désigner un programme de base de données",
+                "Pas de successeur connu à ce jour"
+            ],
+            "options": [
+                "Enregistrer une base de données",
+                "Identifier les informations pour pouvoir les retrouver",
+                "L'autre mot pour désigner un programme de base de données",
+                "Pas de successeur connu à ce jour"
+            ]
+    },
+    
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Quelle application Informatique effectue la délivrance des passeports à haute intégrité ?",
+        "correct_answer": "d. AGDREF",
+        "incorrect_answers": [
+            "a. ARDOISE",
+            "b. GREGOIRE",
+            "c. DELPHINE"
+        ],
+        "options": [
+            "a. ARDOISE",
+            "b. GREGOIRE",
+            "c. DELPHINE",
+            "d. AGDREF"
+        ]
+    },
+
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Comment se nomme l'unité minimale allouée par un disque dur lors d'une opération d'écriture ?",
+        "correct_answer": "a) Le secteur",
+        "incorrect_answers": [
+            "b. Le cluster",
+            "c. La FAT",
+            "d. Le block"
+        ],
+        "options": [
+            "a) Le secteur",
+            "b. Le cluster",
+            "c. La FAT",
+            "d. Le block"
+        ]
+    },
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Quel code de réponse HTTP 1.0 est faux ?",
+        "correct_answer": "d. 500 : requête acceptée, traitement en cours",
+        "incorrect_answers": [
+            "a. 200 : la requête s’est déroulée correctement",
+            "b. 400 : erreur de syntaxe dans la requête envoyée par le client",
+            "c. 404 : la ressource demandée n’existe pas"
+        ],
+        "options": [
+            "a. 200 : la requête s’est déroulée correctement",
+            "b. 400 : erreur de syntaxe dans la requête envoyée par le client",
+            "c. 404 : la ressource demandée n’existe pas",
+            "d. 500 : requête acceptée, traitement en cours"
+        ]
+    },
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Un cookie sur internet, peut ?",
+        "correct_answer": "c. paramétrer de façon personnalisée la page d’accueil d’un site web",
+        "incorrect_answers": [
+            "a. être un programme",
+            "b. contenir un virus",
+            "d. saturer votre disque dur"
+        ],
+        "options": [
+            "a. être un programme",
+            "b. contenir un virus",
+            "c. paramétrer de façon personnalisée la page d’accueil d’un site web",
+            "d. saturer votre disque dur"
+        ]
+    },
+
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Quel système d'exploitation a été développé par le Defense Advanced Research Projects Agency (DARPA) des États-Unis dans les années 1960 ?",
+        "correct_answer": "b. MULTICS",
+        "incorrect_answers": [
+            "a. UNIX",
+            "c. MS-DOS",
+            "d. CP/M"
+        ],
+        "options": [
+            "a. UNIX",
+            "b. MULTICS",
+            "c. MS-DOS",
+            "d. CP/M"
+        ]
+    },
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce que le langage de programmation C++?",
+        "correct_answer": "Un langage de programmation orienté objet",
+        "incorrect_answers": [
+            "Un langage de programmation fonctionnel",
+            "Un langage de programmation impératif",
+            "Un langage de script"
+        ],
+        "options": [
+            "Un langage de programmation orienté objet",
+            "Un langage de programmation fonctionnel",
+            "Un langage de script",
+            "Un langage de programmation impératif"
+        ]
+        },
+        {
+
+        "category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Quelle est la différence entre HTML et XHTML?",
+"correct_answer": "XHTML est un sous-ensemble de XML, tandis que HTML est basé sur SGML.",
+"incorrect_answers": [
+    "HTML est une norme, tandis que XHTML est une spécification.",
+    "HTML est plus strict que XHTML.",
+    "XHTML est plus ancien que HTML."
+],
+"options": [
+    "XHTML est une norme, tandis que HTML est une spécification.",
+    "XHTML est plus strict que HTML.",
+    "HTML est un sous-ensemble de XML, tandis que XHTML est basé sur SGML.",
+    "XHTML est plus ancien que HTML."
+]
+
+},
+{
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Hard",
+"question": "Quelle est la signification de CSS?",
+"correct_answer": "Cascading Style Sheets",
+"incorrect_answers": [
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Colorful Style Sheets"
+],
+"options": [
+    "Cascading Style Sheets",
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Colorful Style Sheets"
+]
+},
+{
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Comment ajoutez-vous un attribut data à une balise HTML?",
+"correct_answer": "data-<nom de l'attribut>",
+"incorrect_answers": [
+    "data=<nom de l'attribut>",
+    "<nom de l'attribut>-data",
+    "attribut-data-<nom>"
+],
+"options": [
+    "data-<nom de l'attribut>",
+    "data=<nom de l'attribut>",
+    "<nom de l'attribut>-data",
+    "attribut-data-<nom>"
+]
+},
+
+
+{
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Quelle est la différence entre les éléments <div> et <span> en HTML?",
+"correct_answer": "<div> est un élément de bloc, tandis que <span> est un élément en ligne.",
+"incorrect_answers": [
+    "<div> est utilisé pour le texte, tandis que <span> est utilisé pour les conteneurs.",
+    "<span> est un élément de bloc, tandis que <div> est un élément en ligne.",
+    "<div> est un élément pour les sections, tandis que <span> est un élément pour les phrases."
+],
+"options": [
+    "<div> est un élément de bloc, tandis que <span> est un élément en ligne.",
+    "<div> est utilisé pour le texte, tandis que <span> est utilisé pour les conteneurs.",
+    "<span> est un élément de bloc, tandis que <div> est un élément en ligne.",
+    "<div> est un élément pour les sections, tandis que <span> est un élément pour les phrases."
+]
+} ,
+
+{
+    "category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Quelle est la différence entre les attributs 'id' et 'class' en HTML?",
+"correct_answer": "L'attribut 'id' doit être unique sur la page, tandis que l'attribut 'class' peut être utilisé plusieurs fois.",
+"incorrect_answers": [
+    "L'attribut 'id' peut être utilisé plusieurs fois, tandis que l'attribut 'class' doit être unique sur la page.",
+    "L'attribut 'id' est utilisé pour les éléments en bloc, tandis que l'attribut 'class' est utilisé pour les éléments en ligne.",
+    "Il n'y a pas de différence entre l'attribut 'id' et l'attribut 'class' en HTML."
+],
+"options": [
+    "L'attribut 'id' doit être unique sur la page, tandis que l'attribut 'class' peut être utilisé plusieurs fois.",
+    "L'attribut 'id' peut être utilisé plusieurs fois, tandis que l'attribut 'class' doit être unique sur la page.",
+    "L'attribut 'id' est utilisé pour les éléments en bloc, tandis que l'attribut 'class' est utilisé pour les éléments en ligne.",
+    "Il n'y a pas de différence entre l'attribut 'id' et l'attribut 'class' en HTML."
+]
+
+} ,
+{
+    "category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Quelle est la différence entre une interface et une classe abstraite en Java?",
+"correct_answer": "Une interface ne peut pas contenir d'implémentation de méthodes, tandis qu'une classe abstraite peut.",
+"incorrect_answers": [
+    "Une classe abstraite ne peut pas contenir d'implémentation de méthodes, tandis qu'une interface peut.",
+    "Les interfaces sont utilisées pour définir des types, tandis que les classes abstraites sont utilisées pour définir des sous-classes.",
+    "Les classes abstraites peuvent être instanciées, tandis que les interfaces ne peuvent pas."
+],
+"options": [
+    "Une interface ne peut pas contenir d'implémentation de méthodes, tandis qu'une classe abstraite peut.",
+    "Une classe abstraite ne peut pas contenir d'implémentation de méthodes, tandis qu'une interface peut.",
+    "Les interfaces sont utilisées pour définir des types, tandis que les classes abstraites sont utilisées pour définir des sous-classes.",
+    "Les classes abstraites peuvent être instanciées, tandis que les interfaces ne peuvent pas."
+]
+
+},
+{
+    "category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Quelle est la différence entre une classe et une instance en Java?",
+"correct_answer": "Une classe est un modèle ou un plan pour créer des instances, tandis qu'une instance est un objet spécifique créé à partir de cette classe.",
+"incorrect_answers": [
+    "Une classe et une instance sont des termes interchangeables en Java.",
+    "Une classe est une collection d'instances, tandis qu'une instance est un objet spécifique à l'intérieur de cette collection.",
+    "Une instance est un modèle ou un plan pour créer des classes, tandis qu'une classe est un objet spécifique créé à partir de cette instance."
+],
+"options": [
+    "Une classe est un modèle ou un plan pour créer des instances, tandis qu'une instance est un objet spécifique créé à partir de cette classe.",
+    "Une classe et une instance sont des termes interchangeables en Java.",
+    "Une classe est une collection d'instances, tandis qu'une instance est un objet spécifique à l'intérieur de cette collection.",
+    "Une instance est un modèle ou un plan pour créer des classes, tandis qu'une classe est un objet spécifique créé à partir de cette instance."
+]
+
+},
+
+{
+
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce que Spring Framework?",
+    "correct_answer": "Un framework d'application Java pour développer des applications d'entreprise",
+    "incorrect_answers": [
+    "Un système de gestion de bases de données",
+    "Un langage de programmation",
+    "Un système d'exploitation"
+    ],
+    "options": [
+    "Un framework d'application Java pour développer des applications d'entreprise",
+    "Un système de gestion de bases de données",
+    "Un langage de programmation",
+    "Un système d'exploitation"
+    ]
+},
+{
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Quel est le rôle de Spring MVC dans Spring Framework?",
+    "correct_answer": "Fournir un modèle MVC pour développer des applications Web",
+    "incorrect_answers": [
+    "Fournir des outils pour la gestion des bases de données",
+    "Fournir un système de gestion des transactions",
+    "Fournir des outils de sécurité"
+    ],
+    "options": [
+    "Fournir un modèle MVC pour développer des applications Web",
+    "Fournir des outils pour la gestion des bases de données",
+    "Fournir un système de gestion des transactions",
+    "Fournir des outils de sécurité"
+    ]
+},
+{
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Medium",
+    "question": "Qu'est-ce que l'inversion de contrôle (IoC) dans Spring Framework?",
+    "correct_answer": "Un concept clé qui permet à Spring de gérer les dépendances entre les objets",
+    "incorrect_answers": [
+    "Un concept lié à la sécurité dans les applications Web",
+    "Un concept lié à la performance des applications",
+    "Un concept lié à la gestion des erreurs"
+    ],
+    "options": [
+    "Un concept clé qui permet à Spring de gérer les dépendances entre les objets",
+    "Un concept lié à la sécurité dans les applications Web",
+    "Un concept lié à la performance des applications",
+    "Un concept lié à la gestion des erreurs"
+    ]
+},
+{
+    
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce que Spring Boot?",
+    "correct_answer": "Un outil pour créer des applications Spring autonomes",
+    "incorrect_answers": [
+    "Un outil pour déployer des applications Spring sur des serveurs d'applications",
+    "Un outil pour créer des applications Web en utilisant des technologies non Spring",
+    "Un outil pour générer automatiquement du code Java"
+    ],
+    "options": [
+    "Un outil pour créer des applications Spring autonomes",
+    "Un outil pour déployer des applications Spring sur des serveurs d'applications",
+    "Un outil pour créer des applications Web en utilisant des technologies non Spring",
+    "Un outil pour générer automatiquement du code Java"
+    ]
+},
+
+{
+
+    "category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Qu'est-ce que PHP?",
+"correct_answer": "Un langage de programmation côté serveur",
+"incorrect_answers": [
+"Un langage de programmation côté client",
+"Un logiciel de gestion de bases de données",
+"Un système d'exploitation"
+],
+"options": [
+"Un langage de programmation côté serveur",
+"Un langage de programmation côté client",
+"Un logiciel de gestion de bases de données",
+"Un système d'exploitation"
+]
+},
+{
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Medium",
+"question": "Quelle est la signification de l'acronyme 'PHP'?",
+"correct_answer": "PHP: Hypertext Preprocessor",
+"incorrect_answers": [
+"Personal Home Page",
+"Programmable Hypertext Processor",
+"Professional Hypertext Programming"
+],
+"options": [
+"PHP: Hypertext Preprocessor",
+"Personal Home Page",
+"Programmable Hypertext Processor",
+"Professional Hypertext Programming"
+]
+},
+{
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Hard",
+"question": "Quel est le rôle de la fonction 'echo' en PHP?",
+"correct_answer": "Afficher du texte sur la page Web",
+"incorrect_answers": [
+"Effectuer une requête HTTP",
+"Accéder à une base de données",
+"Créer un cookie"
+],
+"options": [
+"Afficher du texte sur la page Web",
+"Effectuer une requête HTTP",
+"Accéder à une base de données",
+"Créer un cookie"
+]
+},
+{
+
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Hard",
+"question": "Quelle est la différence entre les fonctions 'include' et 'require' en PHP?",
+"correct_answer": "'require' arrête le script si le fichier inclus ne peut pas être trouvé, tandis que 'include' génère une erreur mais continue le script",
+"incorrect_answers": [
+"'include' arrête le script si le fichier inclus ne peut pas être trouvé, tandis que 'require' génère une erreur mais continue le script",
+"Les deux fonctions fonctionnent de la même manière",
+"Il n'y a pas de différence"
+],
+"options": [
+"'require' arrête le script si le fichier inclus ne peut pas être trouvé, tandis que 'include' génère une erreur mais continue le script",
+"'include' arrête le script si le fichier inclus ne peut pas être trouvé, tandis que 'require' génère une erreur mais continue le script",
+"Les deux fonctions fonctionnent de la même manière",
+"Il n'y a pas de différence"
+]
+},
+{
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Easy",
+"question": "Comment déclarer une variable en PHP?",
+"correct_answer": "$nom_variable = valeur;",
+"incorrect_answers": [
+"var nom_variable = valeur;",
+"int nom_variable = valeur;",
+"declare nom_variable = valeur;"
+],
+"options": [
+"$nom_variable = valeur;",
+"var nom_variable = valeur;",
+"int nom_variable = valeur;",
+"declare nom_variable = valeur;"
+]
+},
+{
+
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Easy",
+"question": "Que signifie l'acronyme 'SQL'?",
+"correct_answer": "Structured Query Language",
+"incorrect_answers": [
+"Simple Query Language",
+"Standard Query Language",
+"Sequential Query Language"
+],
+"options": [
+"Structured Query Language",
+"Simple Query Language",
+"Standard Query Language",
+"Sequential Query Language"
+]
+},
+{
+
+"category": "Informatique",
+"type": "Choix unique",
+"difficulty": "Easy",
+"question": "Qu'est-ce que 'SELECT' en SQL?",
+"correct_answer": "Un mot-clé utilisé pour sélectionner des données dans une base de données",
+"incorrect_answers": [
+"Un mot-clé utilisé pour insérer des données dans une base de données",
+"Un mot-clé utilisé pour supprimer des données dans une base de données",
+"Un mot-clé utilisé pour mettre à jour des données dans une base de données"
+],
+"options": [
+"Un mot-clé utilisé pour sélectionner des données dans une base de données",
+"Un mot-clé utilisé pour insérer des données dans une base de données",
+"Un mot-clé utilisé pour supprimer des données dans une base de données",
+"Un mot-clé utilisé pour mettre à jour des données dans une base de données"
+]
+},
+{
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Easy",
+    "question": "Qu'est-ce qu'une base de données relationnelle ?",
+    "correct_answer": "Une base de données relationnelle est une base de données qui organise les données dans des tables reliées les unes aux autres par des relations.",
+    "incorrect_answers": [
+      "Une base de données relationnelle est une base de données qui stocke les données dans des fichiers plats.",
+      "Une base de données relationnelle est une base de données qui organise les données dans des graphes.",
+      "Une base de données relationnelle est une base de données qui utilise des méthodes de recherche non conventionnelles."
+    ],
+    "options" : [
+      "Une base de données relationnelle est une base de données qui stocke les données dans des fichiers plats.",
+      "Une base de données relationnelle est une base de données qui organise les données dans des graphes.",
+      "Une base de données relationnelle est une base de données qui organise les données dans des tables reliées les unes aux autres par des relations.",
+      "Une base de données relationnelle est une base de données qui utilise des méthodes de recherche non conventionnelles."
+    ]
+
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Medium",
+    "question": "Qu'est-ce qu'une clé primaire en base de données ?",
+    "correct_answer": "Une clé primaire est une colonne ou un ensemble de colonnes qui identifient de manière unique chaque ligne d'une table.",
+    "incorrect_answers": [
+      "Une clé primaire est une colonne qui peut avoir des valeurs en double dans une table.",
+      "Une clé primaire est une colonne qui ne peut pas être référencée par une clé étrangère.",
+      "Une clé primaire est une colonne qui doit être vide pour que la table puisse être créée."
+    ],
+
+    "options" : [
+      "Une clé primaire est une colonne qui peut avoir des valeurs en double dans une table.",
+      "Une clé primaire est une colonne qui ne peut pas être référencée par une clé étrangère.",
+      "Une clé primaire est une colonne ou un ensemble de colonnes qui identifient de manière unique chaque ligne d'une table.",
+      "Une clé primaire est une colonne qui doit être vide pour que la table puisse être créée."
+    ]
+
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Easy",
+    "question": "Qu'est-ce qu'une jointure externe complète en SQL ?",
+    "correct_answer": "Une jointure externe complète renvoie toutes les lignes des deux tables, même si aucune correspondance n'est trouvée.",
+    "incorrect_answers": [
+      "Une jointure externe complète renvoie uniquement les lignes des deux tables qui ont une correspondance.",
+      "Une jointure externe complète renvoie toutes les lignes de la première table, même si aucune correspondance n'est trouvée dans la seconde table.",
+      "Une jointure externe complète renvoie toutes les lignes de la seconde table, même si aucune correspondance n'est trouvée dans la première table."
+    ],
+    "options" : [
+      "Une jointure externe complète renvoie uniquement les lignes des deux tables qui ont une correspondance.",
+      "Une jointure externe complète renvoie toutes les lignes de la première table, même si aucune correspondance n'est trouvée dans la seconde table.",
+      "Une jointure externe complète renvoie toutes les lignes des deux tables, même si aucune correspondance n'est trouvée.",
+      "Une jointure externe complète renvoie toutes les lignes de la seconde table, même si aucune correspondance n'est trouvée dans la première table."
+    ]
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Medium",
+    "question": "Quelle est la fonction de la clause WHERE en SQL ?",
+    "correct_answer": "La clause WHERE est utilisée pour filtrer les résultats d'une requête SQL en fonction d'une condition spécifique.",
+    "incorrect_answers": [
+      "La clause WHERE est utilisée pour trier les résultats d'une requête SQL.",
+      "La clause WHERE est utilisée pour spécifier les colonnes à inclure dans les résultats d'une requête SQL.",
+      "La clause WHERE est utilisée pour regrouper les résultats d'une requête SQL en fonction d'une colonne spécifique."
+      
+    ],
+    "options" : [
+      "La clause WHERE est utilisée pour trier les résultats d'une requête SQL.",
+      "La clause WHERE est utilisée pour spécifier les colonnes à inclure dans les résultats d'une requête SQL.",
+      "La clause WHERE est utilisée pour filtrer les résultats d'une requête SQL en fonction d'une condition spécifique.",
+      "La clause WHERE est utilisée pour regrouper les résultats d'une requête SQL en fonction d'une colonne spécifique."
+    ]
+
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Easy",
+    "question": "Qu'est-ce qu'une clé étrangère en base de données ?",
+    "correct_answer": "Une clé étrangère est une colonne ou un ensemble de colonnes qui fait référence à la clé primaire d'une autre table.",
+    "incorrect_answers": [
+      "Une clé étrangère est une colonne qui identifie de manière unique chaque ligne d'une table.",
+      "Une clé étrangère est une colonne qui ne peut pas avoir de valeurs en double dans une table.",
+      "Une clé étrangère est une colonne qui ne peut pas être vide dans une table."
+    ],
+    "options" : [
+      "Une clé étrangère est une colonne qui identifie de manière unique chaque ligne d'une table.",
+      "Une clé étrangère est une colonne qui ne peut pas avoir de valeurs en double dans une table.",
+      "Une clé étrangère est une colonne ou un ensemble de colonnes qui fait référence à la clé primaire d'une autre table.",
+      "Une clé étrangère est une colonne qui ne peut pas être vide dans une table."
+    ]
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Easy",
+    "question": "Qu'est-ce qu'une requête SQL ?",
+    "correct_answer": "Une requête SQL est une instruction qui permet d'interroger une base de données et d'en extraire des données spécifiques.",
+    "incorrect_answers": [
+      "Une requête SQL est une instruction qui permet d'ajouter des données dans une base de données.",
+      "Une requête SQL est une instruction qui permet de supprimer des données d'une base de données.",
+      "Une requête SQL est une instruction qui permet de modifier des données dans une base de données."
+    ],
+    "options" : [
+      "Une requête SQL est une instruction qui permet d'ajouter des données dans une base de données.",
+      "Une requête SQL est une instruction qui permet de supprimer des données d'une base de données.",
+      "Une requête SQL est une instruction qui permet d'interroger une base de données et d'en extraire des données spécifiques.",
+      "Une requête SQL est une instruction qui permet de modifier des données dans une base de données."
+    ]
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Easy",
+    "question": "Qu'est-ce qu'une clé étrangère en base de données ?",
+    "correct_answer": "Une clé étrangère est une colonne d'une table qui fait référence à une colonne d'une autre table, établissant ainsi une relation entre les deux tables.",
+    "incorrect_answers": [
+      "Une clé étrangère est une colonne qui ne peut contenir que des valeurs uniques.",
+      "Une clé étrangère est une colonne qui est utilisée pour trier les données dans une table.",
+      "Une clé étrangère est une colonne qui stocke des données binaires."
+    ],
+    "options" : [
+      "Une clé étrangère est une colonne qui ne peut contenir que des valeurs uniques.",
+      "Une clé étrangère est une colonne qui est utilisée pour trier les données dans une table.",
+      "Une clé étrangère est une colonne d'une table qui fait référence à une colonne d'une autre table, établissant ainsi une relation entre les deux tables.",
+      "Une clé étrangère est une colonne qui stocke des données binaires."
+    ]
+  },
+  {
+    "category": "Informatique",
+    "type": "Choix unique",
+    "difficulty": "Hard",
+    "question": "Qu'est-ce qu'un schéma de base de données ?",
+    "correct_answer": "Un schéma de base de données est un diagramme qui montre la structure d'une base de données, y compris les tables, les colonnes et les relations entre les tables.",
+    "incorrect_answers": [
+      "Un schéma de base de données est un diagramme qui montre les données stockées dans une base de données.",
+      "Un schéma de base de données est une formule mathématique utilisée pour stocker les données.",
+      "Un schéma de base de données est un langage de programmation utilisé pour créer des bases de données."
+    ],
+    "options" : [
+      "Un schéma de base de données est un diagramme qui montre les données stockées dans une base de données.",
+      "Un schéma de base de données est une formule mathématique utilisée pour stocker les données.",
+      "Un schéma de base de données est un diagramme qui montre la structure d'une base de données, y compris les tables, les colonnes et les relations entre les tables.",
+      "Un schéma de base de données est un langage de programmation utilisé pour créer des bases de données."]
+  },
+  
+    {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Qu'est-ce qu'une base de données NoSQL ?",
+        "correct_answer": "Une base de données NoSQL est une base de données non relationnelle qui utilise des modèles de données différents de ceux des bases de données relationnelles.",
+        "incorrect_answers": [
+          "Une base de données NoSQL est une base de données relationnelle qui utilise des méthodes de stockage non conventionnelles.",
+          "Une base de données NoSQL est une base de données qui stocke les données dans des fichiers plats.",
+          "Une base de données NoSQL est une base de données qui utilise des graphes pour organiser les données."
+        ],
+        "options" : [
+          "Une base de données NoSQL est une base de données relationnelle qui utilise des méthodes de stockage non conventionnelles.",
+          "Une base de données NoSQL est une base de données qui stocke les données dans des fichiers plats.",
+          "Une base de données NoSQL est une base de données non relationnelle qui utilise des modèles de données différents de ceux des bases de données relationnelles.",
+          "Une base de données NoSQL est une base de données qui utilise des graphes pour organiser les données."
+        ]
+      },
+
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce qu'un diagramme de classes UML ?",
+        "correct_answer": "Un diagramme de classes UML est un diagramme qui montre la structure d'un système en représentant les classes, les attributs, les méthodes et les relations entre les classes.",
+        "incorrect_answers": [
+          "Un diagramme de classes UML est un diagramme qui montre le flux de contrôle entre les objets d'un système.",
+          "Un diagramme de classes UML est un diagramme qui montre les cas d'utilisation d'un système.",
+          "Un diagramme de classes UML est un diagramme qui montre les étapes de traitement d'un système."
+        ],
+        "options" : [
+          "Un diagramme de classes UML est un diagramme qui montre le flux de contrôle entre les objets d'un système.",
+          "Un diagramme de classes UML est un diagramme qui montre les cas d'utilisation d'un système.",
+          "Un diagramme de classes UML est un diagramme qui montre la structure d'un système en représentant les classes, les attributs, les méthodes et les relations entre les classes.",
+          "Un diagramme de classes UML est un diagramme qui montre les étapes de traitement d'un système."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce qu'une association en UML ?",
+        "correct_answer": "Une association en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+        "incorrect_answers": [
+          "Une association en UML est une méthode d'une classe qui peut être appelée par une autre classe.",
+          "Une association en UML est une variable partagée entre deux classes.",
+          "Une association en UML est une classe qui contient des variables et des méthodes."
+        ],
+        "options" : [
+          "Une association en UML est une méthode d'une classe qui peut être appelée par une autre classe.",
+          "Une association en UML est une variable partagée entre deux classes.",
+          "Une association en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une association en UML est une classe qui contient des variables et des méthodes."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Medium",
+        "question": "Qu'est-ce qu'une agrégation en UML ?",
+        "correct_answer": "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe contient un ou plusieurs objets d'une autre classe.",
+        "incorrect_answers": [
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe dépend d'un objet d'une autre classe.",
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe est une instance d'une autre classe."
+        ],
+        "options" : [
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe dépend d'un objet d'une autre classe.",
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe contient un ou plusieurs objets d'une autre classe.",
+          "Une agrégation en UML est une relation entre deux classes qui indique qu'un objet d'une classe est une instance d'une autre classe."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce qu'une généralisation en UML ?",
+        "correct_answer": "Une généralisation en UML est une relation entre une classe générale et une classe spécifique, indiquant que la classe spécifique hérite des attributs et des méthodes de la classe générale.",
+        "incorrect_answers": [
+          "Une généralisation en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une généralisation en UML est une relation entre deux classes qui indique qu'un objet d'une classe contient un ou plusieurs objets d'une autre classe.",
+          "Une généralisation en UML est une relation entre deux classes qui indique qu'un objet d'une classe dépend d'un objet d'une autre classe."
+        ],
+        "options" : [
+          "Une généralisation en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une généralisation en UML est une relation entre deux classes qui indique qu'un objet d'une classe contient un ou plusieurs objets d'une autre classe.",
+          "Une généralisation en UML est une relation entre une classe générale et une classe spécifique, indiquant que la classe spécifique hérite des attributs et des méthodes de la classe générale.",
+          "Une généralisation en UML est une relation entre deux classes qui indique qu'un objet d'une classe dépend d'un objet d'une autre classe."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Qu'est-ce qu'une dépendance en UML ?",
+        "correct_answer": "Une dépendance en UML est une relation entre deux classes qui indique qu'une classe utilise une autre classe, mais n'a pas de lien fort avec elle.",
+        "incorrect_answers": [
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'un objet d'une classe contient un ou plusieurs objets d'une autre classe.",
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'un objet d'une classe dépend d'un objet d'une autre classe."
+        ],
+        "options" : [
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'un objet d'une classe est lié à un objet d'une autre classe.",
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'un objet d'une classe contient un ou plusieurs objets d'une autre classe.",
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'une classe utilise une autre classe, mais n'a pas de lien fort avec elle.",
+          "Une dépendance en UML est une relation entre deux classes qui indique qu'un objet d'une classe dépend d'un objet d'une autre classe."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Qu'est-ce qu'un diagramme de cas d'utilisation UML ?",
+        "correct_answer": "Un diagramme de cas d'utilisation UML est un diagramme qui montre les interactions entre les acteurs et le système.",
+        "incorrect_answers": [
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre la structure d'un système en représentant les classes, les attributs, les méthodes et les relations entre les classes.",
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre les étapes de traitement d'un système.",
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre le flux de contrôle entre les objets d'un système."
+        ],
+        "options" : [
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre la structure d'un système en représentant les classes, les attributs, les méthodes et les relations entre les classes.",
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre les étapes de traitement d'un système.",
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre les interactions entre les acteurs et le système.",
+          "Un diagramme de cas d'utilisation UML est un diagramme qui montre le flux de contrôle entre les objets d'un système."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce qu'un diagramme de séquence UML ?",
+        "correct_answer": "Un diagramme de séquence UML est un diagramme qui montre l'interaction entre les objets dans une séquence d'événements chronologique.",
+        "incorrect_answers": [
+          "Un diagramme de séquence UML est un diagramme qui montre les étapes de traitement d'un système.",
+          "Un diagramme de séquence UML est un diagramme qui montre les interactions entre les acteurs et le système.",
+          "Un diagramme de séquence UML est un diagramme qui montre la structure d'un système en représentant les classes, les attributs, les méthodes et les relations entre les classes."
+        ],
+          "options" : [
+            "Un diagramme de séquence UML est un diagramme qui montre les étapes de traitement d'un système.",
+          "Un diagramme de séquence UML est un diagramme qui montre les interactions entre les acteurs et le système.",
+          "Un diagramme de séquence UML est un diagramme qui montre l'interaction entre les objets dans une séquence d'événements chronologique.",
+          "Un diagramme de séquence UML est un diagramme qui montre la structure d'un système en représentant les classes, les attributs, les méthodes et les relations entre les classes."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Qu'est-ce qu'un diagramme d'état-transition UML ?",
+        "correct_answer": "Un diagramme d'état-transition UML est un diagramme qui montre les transitions entre les états d'un objet en réponse aux événements externes ou internes.",
+        "incorrect_answers": [
+          "Un diagramme d'état-transition UML est un diagramme qui montre les interactions entre les acteurs et le système.",
+          "Un diagramme d'état-transition UML est un diagramme qui montre les étapes de traitement d'un système.",
+          "Un diagramme d'état-transition UML est un diagramme qui montre l'interaction entre les objets dans une organisation structurée."
+        ],
+        "options" : [
+          "Un diagramme d'état-transition UML est un diagramme qui montre les interactions entre les acteurs et le système.",
+          "Un diagramme d'état-transition UML est un diagramme qui montre les étapes de traitement d'un système.",
+          "Un diagramme d'état-transition UML est un diagramme qui montre l'interaction entre les objets dans une organisation structurée.",
+          "Un diagramme d'état-transition UML est un diagramme qui montre les transitions entre les états d'un objet en réponse aux événements externes ou internes."
+        ]
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Qu'est-ce que la loi de Fitts en IHM ?",
+        "correct_answer": "La loi de Fitts est une théorie qui décrit le temps requis pour atteindre une cible avec une précision donnée en fonction de la distance et de la taille de la cible.",
+        "incorrect_answers": [
+          "La loi de Fitts est une théorie qui décrit l'utilisation des feedbacks utilisateur en IHM.",
+          "La loi de Fitts est une théorie qui décrit la conception de la disposition des éléments d'interface utilisateur.",
+          "La loi de Fitts est une théorie qui décrit l'importance de l'expérience utilisateur en IHM."
+        ],
+        "options" : [
+          "La loi de Fitts est une théorie qui décrit l'utilisation des feedbacks utilisateur en IHM.",
+          "La loi de Fitts est une théorie qui décrit la conception de la disposition des éléments d'interface utilisateur.",
+          "La loi de Fitts est une théorie qui décrit l'importance de l'expérience utilisateur en IHM.",
+          "La loi de Fitts est une théorie qui décrit le temps requis pour atteindre une cible avec une précision donnée en fonction de la distance et de la taille de la cible."
+        ]
+
+      },
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Easy",
+        "question": "Que signifie l'acronyme IHM ?",
+        "correct_answer": "Interface Homme-Machine",
+        "incorrect_answers": [
+          "Interface Humain-Machine",
+          "Interface Homme-Mécanique",
+          "Interface Humain-Mécanique"
+        ],
+          "options" : [
+          "Interface Humain-Machine",
+          "Interface Homme-Mécanique",
+          "Interface Homme-Machine",
+          "Interface Humain-Mécanique"
+
+        ]
+      } ,
+
+      {
+        "category": "Informatique",
+        "type": "Choix unique",
+        "difficulty": "Hard",
+        "question": "Quel hook React permet de gérer l'état dans un composant fonctionnel ?",
+        "correct_answer": "useState()",
+        "incorrect_answers": [
+        "useEffect()",
+        "useRef()",
+        "useContext()"
+        ],
+        "options": [
+        "useState()",
+        "useEffect()",
+        "useRef()",
+        "useContext()"
+        ]
+        },
+        {
+            "category": "Informatique",
+            "type": "Choix unique",
+            "difficulty": "Easy",
+            "question": "Comment utilise-t-on les propriétés dans un composant React ?",
+            "correct_answer": "En les passant comme paramètres à la fonction de rendu",
+            "incorrect_answers": [
+            "En les définissant comme variables globales dans le composant",
+            "En les ajoutant au state du composant",
+            "En les passant comme argument à la méthode render()"
+            ],
+            "options": [
+            "En les passant comme paramètres à la fonction de rendu",
+            "En les définissant comme variables globales dans le composant",
+            "En les ajoutant au state du composant",
+            "En les passant comme argument à la méthode render()"
+            ]
+            },
+            {
+                "category": "Informatique",
+                "type": "Choix unique",
+                "difficulty": "Hard",
+                "question": "Quelle méthode est appelée juste après qu'un composant a été mis à jour dans React ?",
+                "correct_answer": "componentDidUpdate()",
+                "incorrect_answers": [
+                "componentWillMount()",
+                "componentWillUnmount()",
+                "componentWillUpdate()"
+                ],
+                "options": [
+                "componentDidUpdate()",
+                "componentWillMount()",
+                "componentWillUnmount()",
+                "componentWillUpdate()"
+                ]
+                },
+                {
+                    "category": "Informatique",
+                    "type": "Choix unique",
+                    "difficulty": "Easy",
+                    "question": "Comment peut-on transmettre des données entre deux composants React qui ne sont pas directement liés ?",
+                    "correct_answer": "En utilisant des props et des callbacks",
+                    "incorrect_answers": [
+                    "En utilisant le pattern Observer",
+                    "En utilisant une API REST",
+                    "En utilisant un gestionnaire d'état global comme Redux"
+                    ],
+                    "options": [
+                    "En utilisant des props et des callbacks",
+                    "En utilisant le pattern Observer",
+                    "En utilisant une API REST",
+                    "En utilisant un gestionnaire d'état global comme Redux"
+                    ]
+                    },
+                    {
+                        "category": "Informatique",
+                        "type": "Choix unique",
+                        "difficulty": "Easy",
+                        "question": "Quelle est la différence entre une classe et un composant fonctionnel dans React ?",
+                        "correct_answer": "Les classes peuvent utiliser le state, tandis que les composants fonctionnels ne le peuvent pas",
+                        "incorrect_answers": [
+                        "Les composants fonctionnels sont plus performants que les classes",
+                        "Les classes sont plus faciles à comprendre que les composants fonctionnels",
+                        "Les composants fonctionnels sont plus simples à écrire que les classes"
+                        ],
+                        "options": [
+                        "Les classes peuvent utiliser le state, tandis que les composants fonctionnels ne le peuvent pas",
+                        "Les composants fonctionnels sont plus performants que les classes",
+                        "Les classes sont plus faciles à comprendre que les composants fonctionnels",
+                        "Les composants fonctionnels sont plus simples à écrire que les classes"
+                        ]
+                        },
+
+
+                        {
+                            "category": "Informatique",
+                            "type": "True/False",
+                            "difficulty": "Easy",
+                            "question": "Le modèle OSI est un modèle de référence pour les communications en réseau.",
+                            "correct_answer": "True",
+                            "incorrect_answers": [
+                            "False"
+                            ],
+                            "options": [
+                            "True",
+                            "False"
+                            ]
+                            },
+
+                            {
+                                "category": "Informatique",
+                                "type": "True/False",
+                                "difficulty": "Medium",
+                                "question": "En UML, les diagrammes de cas d'utilisation représentent l'interaction entre les acteurs et le système.",
+                                "correct_answer": "True",
+                                "incorrect_answers": [
+                                "False"
+                                ],
+                                "options": [
+                                "True",
+                                "False"
+                                ]
+                                },
+                                
+                                {
+                                "category": "Informatique",
+                                "type": "True/False",
+                                "difficulty": "Hard",
+                                "question": "Un diagramme de classes UML représente les attributs, les méthodes et les relations entre les classes.",
+                                "correct_answer": "True",
+                                "incorrect_answers": [
+                                "False"
+                                ],
+                                "options": [
+                                "True",
+                                "False"
+                                ]
+                                },
+                                
+                                {
+                                "category": "Informatique",
+                                "type": "True/False",
+                                "difficulty": "Easy",
+                                "question": "En UML, un diagramme de séquence montre les objets qui interagissent dans un scénario d'utilisation.",
+                                "correct_answer": "True",
+                                "incorrect_answers": [
+                                "False"
+                                ],
+                                "options": [
+                                "True",
+                                "False"
+                                ]
+                                },
+                                
+                                {
+                                "category": "Informatique",
+                                "type": "True/False",
+                                "difficulty": "Medium",
+                                "question": "Un diagramme de déploiement UML montre la structure physique du système et les connexions entre les composants matériels.",
+                                "correct_answer": "True",
+                                "incorrect_answers": [
+                                "False"
+                                ],
+                                "options": [
+                                "True",
+                                "False"
+                                ]
+                                },
+                                
+                                {
+                                "category": "Informatique",
+                                "type": "True/False",
+                                "difficulty": "Hard",
+                                "question": "En UML, un diagramme d'états-transitions représente les transitions de l'état d'un objet en réponse à des événements.",
+                                "correct_answer": "True",
+                                "incorrect_answers": [
+                                "False"
+                                ],
+                                "options": [
+                                "True",
+                                "False"
+                                ]
+                                },
+                        
+                                {
+                                "category": "Informatique",
+                                "type": "True/False",
+                                "difficulty": "Easy",
+                                "question": "Un diagramme de composants UML montre la structure interne d'un composant et les interfaces qu'il expose.",
+                                "correct_answer": "True",
+                                "incorrect_answers": [
+                                "False"
+                                ],
+                                "options": [
+                                "True",
+                                "False"
+                                ]
+                                },
+                                {
+                                    "category": "Informatique",
+                                    "type": "True/False",
+                                    "difficulty": "Medium",
+                                    "question": "Un diagramme de cas d'utilisation UML peut être utilisé pour décrire les exigences fonctionnelles d'un système.",
+                                    "correct_answer": "True",
+                                    "incorrect_answers": [
+                                    "False"
+                                    ],
+                                    "options": [
+                                    "True",
+                                    "False"
+                                    ]
+                                    },
+                                    
+                                    {
+                                    "category": "Informatique",
+                                    "type": "True/False",
+                                    "difficulty": "Hard",
+                                    "question": "En UML, un diagramme de collaboration montre les interactions entre les objets pour un scénario d'utilisation donné.",
+                                    "correct_answer": "True",
+                                    "incorrect_answers": [
+                                    "False"
+                                    ],
+                                    "options": [
+                                    "True",
+                                    "False"
+                                    ]
+                                    },
+                                    
+                                    {
+                                    "category": "Informatique",
+                                    "type": "True/False",
+                                    "difficulty": "Easy",
+                                    "question": "Un diagramme de classes UML peut être utilisé pour générer du code.",
+                                    "correct_answer": "True",
+                                    "incorrect_answers": [
+                                    "False"
+                                    ],
+                                    "options": [
+                                    "True",
+                                    "False"
+                                    ]
+                                    },
+                                    
+                                    {
+                                    "category": "Informatique",
+                                    "type": "True/False",
+                                    "difficulty": "Medium",
+                                    "question": "En UML, les stéréotypes sont des tags utilisés pour ajouter des informations supplémentaires aux éléments du modèle.",
+                                    "correct_answer": "True",
+                                    "incorrect_answers": [
+                                    "False"
+                                    ],
+                                    "options": [
+                                    "True",
+                                    "False"
+                                    ]
+                                    },
+                                    
+                                    {
+                                    "category": "Informatique",
+                                    "type": "True/False",
+                                    "difficulty": "Hard",
+                                    "question": "Un diagramme de séquence UML peut être utilisé pour montrer les messages échangés entre les objets.",
+                                    "correct_answer": "True",
+                                    "incorrect_answers": [
+                                    "False"
+                                    ],
+                                    "options": [
+                                    "True",
+                                    "False"
+                                    ]
+                                    },
+                                    
+                                    {
+                                    "category": "Informatique",
+                                    "type": "True/False",
+                                    "difficulty": "Easy",
+                                    "question": "En UML, une association représente une relation entre deux classes.",
+                                    "correct_answer": "True",
+                                    "incorrect_answers": [
+                                    "False"
+                                    ],
+                                    "options": [
+                                    "True",
+                                    "False"
+                                    ]
+                                    },
+{
+"category": "Informatique",
+"type": "True/False",
+"difficulty": "Medium",
+"question": "Un diagramme de déploiement UML peut être utilisé pour montrer la répartition physique des composants sur différents serveurs.",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+],
+"options": [
+"True",
+"False"
+]
+},
+
+{
+"category": "Informatique",
+"type": "True/False",
+"difficulty": "Hard",
+"question": "En UML, une agrégation est une association dans laquelle l'objet qui contient les autres objets peut exister sans eux.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+],
+"options": [
+"True",
+"False"
+]
+},
+
+{
+"category": "Informatique",
+"type": "True/False",
+"difficulty": "Easy",
+"question": "Un diagramme de composants UML peut être utilisé pour montrer la structure interne d'un système.",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+],
+"options": [
+"True",
+"False"
+]
+},
+
+{
+"category": "Informatique",
+"type": "True/False",
+"difficulty": "Medium",
+"question": "En UML, une interface est une classe abstraite qui spécifie un ensemble de méthodes sans les implémenter.",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+],
+"options": [
+"True",
+"False"
+]
+},
+
+{
+"category": "Informatique",
+"type": "True/False",
+"difficulty": "Hard",
+"question": "Un diagramme d'états-transitions UML peut être utilisé pour modéliser le comportement d'un objet ou d'un système.",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+],
+"options": [
+"True",
+"False"
+]
+},
+
+{
+"category": "Informatique",
+"type": "True/False",
+"difficulty": "Easy",
+"question": "En UML, une généralisation est une relation entre une classe plus générale (ou superclasse) et une classe plus spécifique (ou sous-classe).",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+],
+"options": [
+"True",
+"False"
+]
+},
+{
+    "category": "Informatique",
+    "type": "True/False",
+    "difficulty": "Medium",
+    "question": "En UML, une association est une relation binaire entre deux classes qui peut être unidirectionnelle ou bidirectionnelle.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+    "False"
+    ],
+    "options": [
+    "True",
+    "False"
+    ]
+    },
+    
+    {
+    "category": "Informatique",
+    "type": "True/False",
+    "difficulty": "Hard",
+    "question": "En UML, une classe peut avoir plusieurs opérations ayant le même nom mais des signatures différentes.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+    "False"
+    ],
+    "options": [
+    "True",
+    "False"
+    ]
+    },
+    
+    {
+    "category": "Informatique",
+    "type": "True/False",
+    "difficulty": "Easy",
+    "question": "En UML, un diagramme de séquence peut être utilisé pour montrer l'interaction entre plusieurs objets dans un scénario donné.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+    "False"
+    ],
+    "options": [
+    "True",
+    "False"
+    ]
+    },
+    {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "React est une bibliothèque JavaScript pour la construction d'interfaces utilisateur.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "React a été développé par Facebook.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "React utilise une approche basée sur la déclaration plutôt que sur l'impératif.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "React est principalement utilisé pour la construction de SPA (Single Page Applications).",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "React utilise une approche basée sur la composition plutôt que sur l'héritage pour la réutilisation de code.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "React utilise une approche basée sur la composition plutôt que sur l'héritage pour la réutilisation de code.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "React utilise le DOM virtuel pour améliorer les performances des applications web.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "React peut être utilisé avec d'autres bibliothèques JavaScript, telles que Redux, pour créer des applications web plus avancées.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "React utilise une syntaxe appelée JSX qui permet d'écrire des composants en mélangeant HTML et JavaScript.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "React utilise la méthode de rendu conditionnel pour afficher dynamiquement du contenu sur une page web.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "PHP est un langage de programmation interprété côté serveur.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "Le nom PHP est un acronyme pour 'Hypertext Preprocessor'.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "PHP est un langage de programmation orienté objet.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "PHP est un langage open source et gratuit.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "PHP est souvent utilisé pour la création de sites web dynamiques.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "La syntaxe de base de PHP est similaire à celle du langage C.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "PHP peut être utilisé avec différents serveurs web tels que Apache, IIS ou Nginx.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "PHP dispose de fonctions intégrées pour accéder aux bases de données.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "PHP est un langage fortement typé, ce qui signifie que les variables doivent être déclarées avant leur utilisation.",
+        "correct_answer": "Faux",
+        "incorrect_answers": [
+          "Vrai"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "PHP dispose d'une fonction 'echo' pour afficher du contenu sur une page web.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "Une base de données est une collection organisée de données structurées.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "MySQL est un système de gestion de base de données relationnelles.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "Les données dans une base de données relationnelle sont organisées en tables.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "Une clé primaire est une colonne d'une table qui sert à identifier de manière unique chaque ligne de cette table.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "Les requêtes SQL permettent de lire, modifier et supprimer des données dans une base de données.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "Une jointure permet de combiner des données de deux ou plusieurs tables en fonction de relations communes.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "Les index dans une base de données sont utilisés pour accélérer les recherches de données.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "Le langage SQL est utilisé pour communiquer avec les bases de données.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "Les bases de données relationnelles stockent les données dans des tables avec des relations entre elles.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "Le langage de programmation Java a été créé par Microsoft.",
+        "correct_answer": "Faux",
+        "incorrect_answers": [
+          "Vrai"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "Le format de fichier .PDF signifie Portable Document Format.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "Les ordinateurs quantiques utilisent des bits quantiques, appelés qubits, qui peuvent exister simultanément dans plusieurs états.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "La première version du système d'exploitation Windows a été publiée dans les années 1980.",
+        "correct_answer": "Faux",
+        "incorrect_answers": [
+          "Vrai"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "Le langage de programmation PHP est principalement utilisé pour la création de pages web dynamiques.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "Les adresses IP sont des identifiants uniques attribués à chaque appareil connecté à Internet.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Easy",
+        "question": "Les adresses IP sont des identifiants uniques attribués à chaque appareil connecté à Internet.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Medium",
+        "question": "Le langage de programmation C++ a été créé avant le langage de programmation C.",
+        "correct_answer": "Faux",
+        "incorrect_answers": [
+          "Vrai"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      },
+      {
+        "category": "Informatique",
+        "type": "True/False",
+        "difficulty": "Hard",
+        "question": "Le terme 'bug' a été utilisé pour la première fois par Grace Hopper lorsqu'elle a trouvé une mite coincée dans l'un des relais du Harvard Mark II.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": [
+          "Faux"
+        ],
+        "options": [
+            "True",
+            "False"
+            ]
+      }
+    ]

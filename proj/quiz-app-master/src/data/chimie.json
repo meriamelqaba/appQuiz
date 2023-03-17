@@ -1,0 +1,1149 @@
+
+[
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Hard",
+        "question": "Quelle est la formule brute de la morphine ?",
+        "correct_answer": "C17H19NO3",
+        "incorrect_answers": ["C19H21NO3", "C21H23NO3", "C23H25NO3"],
+        "options": ["C17H19NO3", "C19H21NO3", "C21H23NO3", "C23H25NO3"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Hard",
+        "question": "Quel est le nom de la réaction chimique qui se produit lorsqu'un acide et une base sont mélangés ?",
+        "correct_answer": "Réaction d'acidobasie",
+        "incorrect_answers": ["Réaction de combustion", "Réaction de synthèse", "Réaction de décomposition"],
+        "options": ["Réaction d'acidobasie", "Réaction de combustion", "Réaction de synthèse", "Réaction de décomposition"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Hard",
+        "question": "Combien de liaisons covalentes un atome de carbone peut-il former?",
+        "correct_answer": "4",
+        "incorrect_answers": ["2", "6", "8"],
+        "options": ["2", "4", "6", "8"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Hard",
+        "question": "Quel est le nom de l'enzyme qui catalyse la réaction de conversion du glucose en fructose ?",
+        "correct_answer": "Isomérase",
+        "incorrect_answers": ["Déshydrogénase", "Hydrolase", "Transférase"],
+        "options": ["Isomérase", "Déshydrogénase", "Hydrolase", "Transférase"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Hard",
+        "question": "De quoi est constitué un atome d'hélium?",
+        "correct_answer": "2 protons et 2 neutrons",
+        "incorrect_answers": ["2 protons et 1 neutron", "2 protons et 3 neutrons", "2 protons et 4 neutrons"],
+        "options": ["2 protons et 1 neutron", "2 protons et 2 neutrons", "2 protons et 3 neutrons", "2 protons et 4 neutrons"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Hard",
+        "question": "Quelle est la température à laquelle l'eau bout à une pression atmosphérique normale?",
+        "correct_answer": "100°C",
+        "incorrect_answers": ["0°C", "50°C", "150°C"],
+        "options": ["0°C", "50°C", "100°C", "150°C"]
+    },
+   
+    
+        {
+          "category": "chimie",
+          "type": "multiple",
+          "difficulty": "Hard",
+          "question": "Quel est le nom du processus chimique qui se produit lorsque des molécules sont réduites par l'addition d'ions d'hydrogène (H+) ?",
+          "correct_answer": "Réduction",
+          "incorrect_answers": ["Oxydation", "Hydrolyse", "Acidification"],
+          "options": ["Réduction", "Oxydation", "Hydrolyse", "Acidification"]
+        },
+        {
+          "category": "chimie",
+          "type": "multiple",
+          "difficulty": "Hard",
+          "question": "Quelle est la formule chimique de l'acide sulfurique concentré?",
+          "correct_answer": "H2SO4",
+          "incorrect_answers": ["H2S2O7", "HSO4", "H2S"],
+          "options": ["H2SO4", "H2S2O7", "HSO4", "H2S"]
+        },
+       
+        {
+          "category": "chimie",
+          "type": "multiple",
+          "difficulty": "Hard",
+          "question": "Quel est le nom du composé chimique N2O5?",
+          "correct_answer": "Pentaoxyde de diazote",
+          "incorrect_answers": ["Tétraoxyde de diazote", "Hexaoxyde de diazote", "Dioxyde de diazote"],
+          "options": ["Pentaoxyde de diazote", "Tétraoxyde de diazote", "Hexaoxyde de diazote", "Dioxyde de diazote"]
+        },
+        {
+          "category": "chimie",
+          "type": "multiple",
+          "difficulty": "Hard",
+          "question": "Quel est le nom du processus par lequel une substance se transforme en une autre substance par une réaction chimique?",
+          "correct_answer": "Chimiosynthèse",
+          "incorrect_answers": ["Photosynthèse", "Fission nucléaire", "Fusion nucléaire"],
+          "options": ["Chimiosynthèse", "Photosynthèse", "Fission nucléaire", "Fusion nucléaire"]
+        },
+        
+       
+        
+          
+            {
+              "category": "chimie",
+              "type": "multiple",
+              "difficulty": "Hard",
+              "question": "Quel est l'élément chimique dont la forme la plus stable est un gaz noble?",
+              "correct_answer": "Xénon",
+              "incorrect_answers": ["Krypton", "Néon", "Argon"],
+              "options": ["Xénon", "Krypton", "Néon", "Argon"]
+            },
+            {
+              "category": "chimie",
+              "type": "multiple",
+              "difficulty": "Hard",
+              "question": "Quel est le nom de l'acide présent dans le vinaigre?",
+              "correct_answer": "Acide acétique",
+              "incorrect_answers": ["Acide sulfurique", "Acide chlorhydrique", "Acide nitrique"],
+              "options": ["Acide acétique", "Acide sulfurique", "Acide chlorhydrique", "Acide nitrique"]
+            },
+           
+            {
+              "category": "chimie",
+              "type": "multiple",
+              "difficulty": "Hard",
+              "question": "Quelle est la formule chimique de l'aspirine?",
+              "correct_answer": "C9H8O4",
+              "incorrect_answers": ["C7H6O2", "C10H14N2", "C6H12O6"],
+              "options": ["C9H8O4", "C7H6O2", "C10H14N2", "C6H12O6"]
+            },
+            {
+              "category": "chimie",
+              "type": "multiple",
+              "difficulty": "Hard",
+              "question": "Quel est le nom de l'acide présent dans les agrumes?",
+              "correct_answer": "Acide citrique",
+              "incorrect_answers": ["Acide malique", "Acide tartrique", "Acide lactique"],
+              "options": ["Acide citrique", "Acide malique", "Acide tartrique", "Acide lactique"]
+            },
+            
+                {
+                  "category": "chimie",
+                  "type": "multiple",
+                  "difficulty": "Hard",
+                  "question": "Quel est le numéro atomique de l'élément Plomb (Pb) ?",
+                  "correct_answer": "82",
+                  "incorrect_answers": ["72", "62", "92"],
+                  "options": ["72", "82", "62", "92"]
+                },
+                {
+                  "category": "chimie",
+                  "type": "multiple",
+                  "difficulty": "Hard",
+                  "question": "Quelle est la formule chimique de l'acide sulfurique ?",
+                  "correct_answer": "H2SO4",
+                  "incorrect_answers": ["H2SO3", "H3SO4", "H3SO3"],
+                  "options": ["H2SO3", "H2SO4", "H3SO3", "H3SO4"]
+                },
+                {
+                  "category": "chimie",
+                  "type": "multiple",
+                  "difficulty": "Hard",
+                  "question": "Quelle est la couleur du gaz chlore ?",
+                  "correct_answer": "vert jaune",
+                  "incorrect_answers": ["rouge", "bleu", "incolore"],
+                  "options": ["rouge", "bleu", "incolore", "vert jaune"]
+                },
+                {
+                  "category": "chimie",
+                  "type": "multiple",
+                  "difficulty": "Hard",
+                  "question": "Quel est le nom du composé NH4OH ?",
+                  "correct_answer": "hydroxyde d'ammonium",
+                  "incorrect_answers": ["ammoniac", "nitrate d'ammonium", "sulfate d'ammonium"],
+                  "options": ["ammoniac", "sulfate d'ammonium", "nitrate d'ammonium", "hydroxyde d'ammonium"]
+                },
+                {
+                  "category": "chimie",
+                  "type": "multiple",
+                  "difficulty": "Hard",
+                  "question": "Quelle est la configuration électronique de l'ion fer (Fe2+) ?",
+                  "correct_answer": "[Ar] 3d6",
+                  "incorrect_answers": ["[Ar] 3d4 4s2", "[Ar] 3d5", "[Ar] 3d6 4s1"],
+                  "options": ["[Ar] 3d5", "[Ar] 3d6 4s1", "[Ar] 3d4 4s2", "[Ar] 3d6"]
+                },
+                {
+                  "category": "chimie",
+                  "type": "multiple",
+                  "difficulty": "Hard",
+                  "question": "Quel est le nom du polymère formé à partir de l'éthylène ?",
+                  "correct_answer": "polyéthylène",
+                  "incorrect_answers": ["polystyrène", "polypropylène", "polybutadiène"],
+                  "options": ["polypropylène", "polyéthylène", "polystyrène", "polybutadiène"]
+                },
+              
+              
+
+
+
+
+
+                
+                    {
+                      "category": "Chimie",
+                      "type": "multiple",
+                      "difficulty": "Medium",
+                      "question": "Quelle est la formule chimique de l'eau de Javel ?",
+                      "correct_answer": "NaClO",
+                      "incorrect_answers": ["NaOH", "HCl", "H2O2"],
+                      "options": ["NaClO", "NaOH", "HCl", "H2O2"]
+                    },
+                   
+                    {
+                      "category": "Chimie",
+                      "type": "multiple",
+                      "difficulty": "Medium",
+                      "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+                      "correct_answer": "Azote",
+                      "incorrect_answers": ["Oxygène", "Argon", "Méthane"],
+                      "options": ["Azote", "Oxygène", "Argon", "Méthane"]
+                    },
+                    {
+                      "category": "Chimie",
+                      "type": "multiple",
+                      "difficulty": "Medium",
+                      "question": "Quelle est la formule chimique du méthane ?",
+                      "correct_answer": "CH4",
+                      "incorrect_answers": ["CO2", "H2O", "C2H5OH"],
+                      "options": ["CH4", "CO2", "H2O", "C2H5OH"]
+                    },
+                    {
+                      "category": "Chimie",
+                      "type": "multiple",
+                      "difficulty": "Medium",
+                      "question": "Quel est le symbole chimique de l'or ?",
+                      "correct_answer": "Au",
+                      "incorrect_answers": ["Ag", "Cu", "Fe"],
+                      "options": ["Au", "Ag", "Cu", "Fe"]
+                    },
+                    {
+                      "category": "Chimie",
+                      "type": "multiple",
+                      "difficulty": "Medium",
+                      "question": "Quel est le gaz à effet de serre le plus présent dans l'atmosphère terrestre ?",
+                      "correct_answer": "Dioxyde de carbone",
+                      "incorrect_answers": ["Méthane", "Ozone", "Vapeur d'eau"],
+                      "options": ["Dioxyde de carbone", "Méthane", "Ozone", "Vapeur d'eau"]
+                    },
+                    
+                        {
+                          "category": "Chimie",
+                          "type": "multiple",
+                          "difficulty": "Medium",
+                          "question": "Quel est le matériau de base des fibres optiques ?",
+                          "correct_answer": "Silice",
+                          "incorrect_answers": ["Carbone", "Cuivre", "Aluminium"],
+                          "options": ["Silice", "Carbone", "Cuivre", "Aluminium"]
+                        },
+                        {
+                          "category": "Chimie",
+                          "type": "multiple",
+                          "difficulty": "Medium",
+                          "question": "Quel est le nom de l'alliage de cuivre et de zinc ?",
+                          "correct_answer": "Laiton",
+                          "incorrect_answers": ["Bronze", "Acier", "Fonte"],
+                          "options": ["Laiton", "Bronze", "Acier", "Fonte"]
+                        },
+                        {
+                          "category": "Chimie",
+                          "type": "multiple",
+                          "difficulty": "Medium",
+                          "question": "Quel est le matériau de base des aimants permanents ?",
+                          "correct_answer": "Néodyme",
+                          "incorrect_answers": ["Fer", "Aluminium", "Titane"],
+                          "options": ["Néodyme", "Fer", "Aluminium", "Titane"]
+                        },
+                        {
+                          "category": "Chimie",
+                          "type": "multiple",
+                          "difficulty": "Medium",
+                          "question": "Quel est le nom du matériau utilisé pour fabriquer les lentilles optiques ?",
+                          "correct_answer": "Verre",
+                          "incorrect_answers": ["Plastique", "Acrylique", "Silicone"],
+                          "options": ["Verre", "Plastique", "Acrylique", "Silicone"]
+                        },
+                        {
+                          "category": "Chimie",
+                          "type": "multiple",
+                          "difficulty": "Medium",
+                          "question": "Quel est le nom du matériau utilisé pour fabriquer les bougies d'allumage des moteurs à essence ?",
+                          "correct_answer": "Céramique",
+                          "incorrect_answers": ["Plastique", "Métal", "Verre"],
+                          "options": ["Céramique", "Plastique", "Métal", "Verre"]
+                        },
+                        {
+                          "category": "Chimie",
+                          "type": "multiple",
+                          "difficulty": "Medium",
+                          "question": "Quel est le nom du matériau utilisé pour fabriquer les résistances électroniques ?",
+                          "correct_answer": "Carbone",
+                          "incorrect_answers": ["Cuivre", "Aluminium", "Titane"],
+                          "options": ["Carbone", "Cuivre", "Aluminium", "Titane"]
+                        },
+                        
+                            {
+                              "category": "Chimie",
+                              "type": "multiple",
+                              "difficulty": "Medium",
+                              "question": "Quel est le nom de la molécule responsable de l'odeur de la vanille ?",
+                              "correct_answer": "Vanilline",
+                              "incorrect_answers": ["Caféine", "Cinnamaldéhyde", "Citral"],
+                              "options": ["Vanilline", "Caféine", "Cinnamaldéhyde", "Citral"]
+                            },
+                            {
+                              "category": "Chimie",
+                              "type": "multiple",
+                              "difficulty": "Medium",
+                              "question": "Quel est le nom de la molécule responsable de la couleur des feuilles en automne ?",
+                              "correct_answer": "Caroténoïde",
+                              "incorrect_answers": ["Anthocyanine", "Chlorophylle", "Xanthophylle"],
+                              "options": ["Caroténoïde", "Anthocyanine", "Chlorophylle", "Xanthophylle"]
+                            },
+                            {
+                              "category": "Chimie",
+                              "type": "multiple",
+                              "difficulty": "Medium",
+                              "question": "Quel est le nom de la molécule responsable de la couleur rouge du sang ?",
+                              "correct_answer": "Hémoglobine",
+                              "incorrect_answers": ["Myoglobine", "Chlorophylle", "Anthocyanine"],
+                              "options": ["Hémoglobine", "Myoglobine", "Chlorophylle", "Anthocyanine"]
+                            },
+                            {
+                              "category": "Chimie",
+                              "type": "multiple",
+                              "difficulty": "Medium",
+                              "question": "Quel est le nom de l'acide présent dans le vinaigre ?",
+                              "correct_answer": "Acide acétique",
+                              "incorrect_answers": ["Acide citrique", "Acide lactique", "Acide formique"],
+                              "options": ["Acide acétique", "Acide citrique", "Acide lactique", "Acide formique"]
+                            },
+                           
+                                  {
+                                    "category": "Chimie",
+                                    "type": "multiple",
+                                    "difficulty": "Medium",
+                                    "question": "Quel est le nom de la molécule responsable de l'odeur de la vanille ?",
+                                    "correct_answer": "Vanilline",
+                                    "incorrect_answers": ["Caféine", "Cinnamaldéhyde", "Citral"],
+                                    "options": ["Vanilline", "Caféine", "Cinnamaldéhyde", "Citral"]
+                                  },
+                                  {
+                                    "category": "Chimie ",
+                                    "type": "multiple",
+                                    "difficulty": "Medium",
+                                    "question": "Quel est le nom de la molécule responsable de la couleur des feuilles en automne ?",
+                                    "correct_answer": "Caroténoïde",
+                                    "incorrect_answers": ["Anthocyanine", "Chlorophylle", "Xanthophylle"],
+                                    "options": ["Caroténoïde", "Anthocyanine", "Chlorophylle", "Xanthophylle"]
+                                  },
+                                  {
+                                    "category": "Chimie",
+                                    "type": "multiple",
+                                    "difficulty": "Medium",
+                                    "question": "Quel est le nom de la molécule responsable de la couleur rouge du sang ?",
+                                    "correct_answer": "Hémoglobine",
+                                    "incorrect_answers": ["Myoglobine", "Chlorophylle", "Anthocyanine"],
+                                    "options": ["Hémoglobine", "Myoglobine", "Chlorophylle", "Anthocyanine"]
+                                  },
+                                  {
+                                    "category": "Chimie",
+                                    "type": "multiple",
+                                    "difficulty": "Medium",
+                                    "question": "Quel est le nom de l'acide présent dans le vinaigre ?",
+                                    "correct_answer": "Acide acétique",
+                                    "incorrect_answers": ["Acide citrique", "Acide lactique", "Acide formique"],
+                                    "options": ["Acide acétique", "Acide citrique", "Acide lactique", "Acide formique"]
+                                  },
+                                  {
+                                    "category": "Chimie",
+                                    "type": "multiple",
+                                    "difficulty": "Medium",
+                                    "question": "Quel est le nom de la molécule responsable de l'effet narcotique du cannabis ?",
+                                    "correct_answer": "Tétrahydrocannabinol (THC)",
+                                    "incorrect_answers": ["Cannabidiol (CBD)", "Cannabinol (CBN)", "Caryophyllène"],
+                                    "options": ["Tétrahydrocannabinol (THC)", "Cannabidiol (CBD)", "Cannabinol (CBN)", "Caryophyllène"]
+                                  },
+                                
+                              
+                              
+                          
+                      
+                     
+                  
+
+
+
+
+
+
+
+  
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le pH d'une solution neutre ?",
+        "correct_answer": "7",
+        "incorrect_answers": ["0", "14", "5"],
+        "options": ["0", "5", "7", "14"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le nom de l'élément chimique dont le symbole est Na ?",
+        "correct_answer": "Sodium",
+        "incorrect_answers": ["Argent", "Soufre", "Chlore"],
+        "options": ["Sodium", "Argent", "Soufre", "Chlore"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre ?",
+        "correct_answer": "Azote",
+        "incorrect_answers": ["Oxygène", "Argon", "Hélium"],
+        "options": ["Oxygène", "Argon", "Hélium", "Azote"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quelle est la formule chimique de l'eau ?",
+        "correct_answer": "H2O",
+        "incorrect_answers": ["CO2", "NO2", "SO2"],
+        "options": ["H2O", "CO2", "NO2", "SO2"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le symbole chimique de l'or ?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Cu", "Pt"],
+        "options": ["Au", "Ag", "Cu", "Pt"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le gaz responsable de l'effet de serre ?",
+        "correct_answer": "CO2",
+        "incorrect_answers": ["O2", "N2", "CH4"],
+        "options": ["O2", "N2", "CH4", "CO2"]
+    },
+    
+
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le numéro atomique du sodium ?",
+        "correct_answer": "11",
+        "incorrect_answers": ["12", "13", "14"],
+        "options": ["11", "12", "13", "14"]
+    },
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quel est le symbole chimique du carbone ?",
+            "correct_answer": "C",
+            "incorrect_answers": ["Ca", "Co", "Cr"],
+            "options": ["C", "Ca", "Co", "Cr"]
+        },
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quelle est la formule chimique de l'eau ?",
+            "correct_answer": "H2O",
+            "incorrect_answers": ["CO2", "HCl", "NH3"],
+            "options": ["H2O", "CO2", "HCl", "NH3"]
+        },
+        
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quel est le symbole chimique de l'oxygène ?",
+            "correct_answer": "O",
+            "incorrect_answers": ["Os", "On", "Om"],
+            "options": ["O", "Os", "On", "Om"]
+        },
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quel est le nom de l'acide chlorhydrique ?",
+            "correct_answer": "HCl",
+            "incorrect_answers": ["HNO3", "H2SO4", "NaOH"],
+            "options": ["HCl", "HNO3", "H2SO4", "NaOH"]
+        },
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quel est le nombre d'électrons de valence de l'oxygène ?",
+            "correct_answer": "6",
+            "incorrect_answers": ["4", "2", "8"],
+            "options": ["4", "6", "2", "8"]
+        },
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quel est le symbole chimique du cuivre ?",
+            "correct_answer": "Cu",
+            "incorrect_answers": ["Co", "Cr", "Cd"],
+            "options": ["Cu", "Co", "Cr", "Cd"]
+        },
+        {
+            "category": "chimie",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+            "correct_answer": "CO2",
+            "incorrect_answers": ["CO", "C2O", "CO3"],
+            "options": ["CO2", "CO", "C2O", "CO3"]
+        },
+    
+   
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "De quel élément chimique est principalement composé l'eau ?",
+        "correct_answer": "Hydrogène et oxygène",
+        "incorrect_answers": ["Carbone et oxygène", "Azote et oxygène", "Sodium et chlore"],
+        "options": ["Hydrogène et oxygène", "Carbone et oxygène", "Azote et oxygène", "Sodium et chlore"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le nom de l'élément chimique dont le symbole est 'Na' ?",
+        "correct_answer": "Sodium",
+        "incorrect_answers": ["Azote", "Soufre", "Argon"],
+        "options": ["Sodium", "Azote", "Soufre", "Argon"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le symbole chimique de l'oxygène ?",
+        "correct_answer": "O",
+        "incorrect_answers": ["H", "He", "C"],
+        "options": ["O", "H", "He", "C"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le symbole chimique du carbone ?",
+        "correct_answer": "C",
+        "incorrect_answers": ["H", "He", "O"],
+        "options": ["C", "H", "He", "O"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le nom de l'élément chimique dont le symbole est 'Fe' ?",
+        "correct_answer": "Fer",
+        "incorrect_answers": ["Fluor", "Flore", "Frisium"],
+        "options": ["Fer", "Fluor", "Flore", "Frisium"]
+    },
+    {
+        "category": "chimie",
+        "type": "multiple",
+        "difficulty": "Easy",
+        "question": "Quel est le nom de l'élément chimique dont le symbole est 'Ag' ?",
+        "correct_answer": "Argent",
+        "incorrect_answers": ["Or", "Aluminium", "Cuivre"],
+        "options": ["Argent", "Or", "Aluminium", "Cuivre"]
+    },
+
+
+
+
+
+
+
+
+    {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Le composé organométallique appelé tétraméthylplomb est extrêmement toxique pour l'homme.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les complexes organométalliques sont des composés contenant un ou plusieurs atomes de métaux reliés à un ou plusieurs ligands organiques.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Le réactif de Grignard est un composé organométallique contenant du magnésium.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les composés organométalliques sont largement utilisés dans la catalyse homogène en chimie organique.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les ligands phosphine sont couramment utilisés dans la synthèse de complexes organométalliques.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les composés organométalliques du mercure sont couramment utilisés en chimie analytique pour la détermination de la concentration de divers éléments.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Le cobaltocène est un exemple de complexe organométallique contenant du cobalt.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les ligands cyclopentadiényle sont largement utilisés dans la synthèse de complexes organométalliques.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      }, {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les complexes d'organométalliques sont uniquement constitués de métaux et de carbones.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les composés organométalliques ne sont pas utilisés en catalyse homogène.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les ligands phosphines sont des donneurs d'électrons forts en coordination avec les métaux.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les réactions de couplage croisé sont des réactions d'organométalliques utiles pour la formation de liaisons C-C.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les complexes d'organométalliques ne peuvent pas être obtenus à partir de précurseurs organiques.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "La réaction de Heck est une réaction d'organométallique utile pour la formation de liaisons C-N.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["True", "False"]
+      },
+     
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les carbènes sont des ligands donneurs d'électrons forts en coordination avec les métaux.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      }, {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les complexes métalliques sont des composés organométalliques.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Les composés organométalliques ne peuvent pas être utilisés en catalyse.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Le méthylmercure est un composé organométallique hautement toxique.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Le lithium diisopropylamide (LDA) est un réactif organométallique couramment utilisé en synthèse organique.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Hard",
+        "question": "Le cyclopentadiène est un composé organométallique.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+
+
+
+
+
+
+
+
+
+    {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Medium",
+        "question": "Le gaz naturel est principalement constitué de méthane.",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["True", "False"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Medium",
+        "question": "L'eau pure a une conductivité électrique nulle.",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["Vrai", "Faux"]
+    },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le sel de table est composé de sodium et de chlore.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le gaz hilarant est un gaz qui rend joyeux.",
+          "correct_answer": "Faux",
+          "incorrect_answers": ["Vrai"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le papier pH est utilisé pour mesurer l'acidité ou la basicité d'une solution.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le propane est un gaz naturellement présent dans l'air.",
+          "correct_answer": "Faux",
+          "incorrect_answers": ["Vrai"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le gaz carbonique est utilisé pour faire des boissons gazeuses.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le mercure est un métal liquide à température ambiante.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "La photosynthèse est le processus par lequel les plantes produisent de l'oxygène.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "L'acide sulfurique est utilisé pour nettoyer les éviers et les drains.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+          "options": ["Vrai", "Faux"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Medium",
+          "question": "Le peroxyde d'hydrogène est un antiseptique couramment utilisé pour désinfecter les plaies.",
+          "correct_answer": "Vrai",
+          "incorrect_answers": ["Faux"],
+        "options": ["Vrai", "Faux"]
+        },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "L'eau pure a un pH neutre de 7",
+      "correct_answer": "Vrai",
+      "incorrect_answers": ["Faux"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "Le fer est un métal noble",
+      "correct_answer": "Faux",
+      "incorrect_answers": ["Vrai"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "La réaction de combustion est une réaction endothermique",
+      "correct_answer": "Faux",
+      "incorrect_answers": ["Vrai"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "Le silicium est un semi-métal",
+      "correct_answer": "Vrai",
+      "incorrect_answers": ["Faux"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "La vapeur d'eau est plus dense que l'air",
+      "correct_answer": "Faux",
+      "incorrect_answers": ["Vrai"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "Le sodium est un métal mou qui peut être coupé avec un couteau",
+      "correct_answer": "Vrai",
+      "incorrect_answers": ["Faux"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "L'air que nous respirons est principalement constitué d'oxygène",
+      "correct_answer": "Faux",
+      "incorrect_answers": ["Vrai"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "La température de fusion de l'eau est de 0°C",
+      "correct_answer": "Vrai",
+      "incorrect_answers": ["Faux"],
+      "options": ["True", "False"]
+    },
+    {
+      "category": "Chimie",
+      "type": "true or false",
+      "difficulty": "Medium",
+      "question": "La molécule de dioxyde de carbone est linéaire",
+      "correct_answer": "Vrai",
+      "incorrect_answers": ["Faux"],
+      "options": ["True", "False"]
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Les composés organométalliques sont des composés qui contiennent à la fois des atomes de carbone et des atomes de métaux. Vrai ou faux ?",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le tétrahydruroborate de sodium (NaBH4) est un réactif couramment utilisé pour réduire les composés organiques. Vrai ou faux ?",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le mécanisme de réaction pour une réaction de substitution électrophile aromatique est similaire à celui d'une réaction de substitution nucléophile. Vrai ou faux ?",
+        "correct_answer": "Faux",
+        "incorrect_answers": ["Vrai"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le tétraphénylporphyrine de zinc (ZnTPP) est un exemple de complexe organométallique. Vrai ou faux ?",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le bis(cyclopentadiényle)fer (Fe(C5H5)2) est un exemple de sandwich organométallique. Vrai ou faux ?",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "L'addition d'un réactif organométallique à un composé carbonyle conduit à la formation d'un alcool. Vrai ou faux ?",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le palladium est souvent utilisé comme catalyseur dans les réactions de couplage croisé en chimie organométallique. Vrai ou faux ?",
+        "correct_answer": "Vrai",
+        "incorrect_answers": ["Faux"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le carbone est un élément organométallique.",
+        "correct_answer": "false",
+        "incorrect_answers": ["true"],
+        "options": ["true", "false"]
+      },
+      {
+        "category": "Chimie",
+        "type": "true or false",
+        "difficulty": "Easy",
+        "question": "Le cuivre est un élément organométallique.",
+        "correct_answer": "false",
+        "incorrect_answers": ["true"],
+        "options": ["true", "false"]
+      },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le carbone est un élément métallique.",
+          "correct_answer": "False",
+          "incorrect_answers": ["True"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Les ions hydroxyde sont toujours présents dans les acides.",
+          "correct_answer": "False",
+          "incorrect_answers": ["True"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le fer est un métal communément utilisé dans la construction.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le sodium est un métal alcalin.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le sel de table est principalement composé de chlorure de sodium.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le radium est un élément radioactif.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Les éléments dans la colonne 18 du tableau périodique sont appelés gaz nobles.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le nitrate d'argent est utilisé en photographie.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "L'oxygène est nécessaire à la respiration des plantes.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },
+        {
+          "category": "Chimie",
+          "type": "true or false",
+          "difficulty": "Easy",
+          "question": "Le propane est un gaz à effet de serre.",
+          "correct_answer": "True",
+          "incorrect_answers": ["False"],
+          "options": ["True", "False"]
+        },{
+            "category": "Chimie",
+            "type": "true or false",
+            "difficulty": "Easy",
+            "question": "Le méthylmercure est un composé organométallique qui peut causer des dommages neurologiques chez l'homme.",
+            "correct_answer": "true",
+            "incorrect_answers": ["false"],
+            "options": ["true", "false"]
+          }
+    
+] 
